@@ -1,0 +1,61 @@
+Documentos
+nombre:Mario
+edad:20
+CiudadDestino: Dallas
+BalanceBancario:28 Millones
+Título:Tecnologo
+
+Documentos
+nombre:Laura
+edad:28
+CiudadDestino: Phoenix
+BalanceBancario:28 Millones
+Título:PhD
+
+Documentos
+nombre:Eduardo
+edad:36
+CiudadDestino: Austin
+BalanceBancario:230 Millones
+Título:Tecnologo
+
+Documentos
+nombre:Camila
+edad:34
+CiudadDestino: Phoenix
+BalanceBancario:1000 Millones
+Título:Profesional>
+
+PILA
+
+Documentos
+nombre:María
+edad:33
+CiudadDestino: Phoenix
+BalanceBancario:28 Millones
+Título:Profesional
+
+Documentos
+nombre:Carlos
+edad:50
+CiudadDestino: Miami
+BalanceBancario:430 Millones
+Título:Profesional
+
+Documentos
+nombre:Adriana
+edad:30
+CiudadDestino: Dallas
+BalanceBancario:60 Millones
+Título:Profesional
+
+Documentos
+nombre:Estefa
+edad:36
+CiudadDestino: Miami
+BalanceBancario:358 Millones
+Título:Magister
+
+PILA
+
+end

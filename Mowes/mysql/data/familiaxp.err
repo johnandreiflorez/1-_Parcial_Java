@@ -1,0 +1,5 @@
+120924 17:29:22  InnoDB: Started; log sequence number 0 132625
+120924 17:29:29 [Note] G:\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+120924 17:40:47 [Note] G:\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+

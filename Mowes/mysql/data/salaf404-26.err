@@ -1,0 +1,23 @@
+110827 13:54:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110827 13:54:04  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 132599.
+InnoDB: Doing recovery: scanned up to log sequence number 0 132599
+110827 13:54:04  InnoDB: Started; log sequence number 0 132599
+Can't start server: Bind on TCP/IP port: Invalid argument
+110827 13:54:04 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+110827 13:54:04 [ERROR] Aborting
+
+110827 13:54:04  InnoDB: Starting shutdown...
+110827 13:54:07  InnoDB: Shutdown completed; log sequence number 0 132599
+110827 13:54:07 [Note] E:\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+110827 13:55:09  InnoDB: Started; log sequence number 0 132599
+110827 13:55:09 [Note] E:\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110827 13:55:49 [Note] E:\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+110827 13:55:49  InnoDB: Starting shutdown...

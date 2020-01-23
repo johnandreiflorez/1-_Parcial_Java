@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contactenos
+{
+	margin-top:20px;
+}
+.cajaTexto
+{
+	width:212px;
+	height:21px;
+	background-image:url(../Imagenes/campos.png);
+	border:none;
+	background-repeat:no-repeat;
+}
+.mensaje
+{
+	width:267px;
+	height:144px;
+	border:none;
+	background-image:url(../Imagenes/Texto.png);
+}
+.botonEnviar
+{
+	background-image:url(../Imagenes/botonEnviar.png);
+	background-repeat:no-repeat;
+	width:164px;
+	height:36px;
+	border:none;
+}

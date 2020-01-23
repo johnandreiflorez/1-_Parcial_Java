@@ -1,0 +1,898 @@
+[Wed Jan 23 16:14:43 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Jan 23 16:14:43 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Jan 23 16:14:43 2008] [notice] Parent: Created child process 13064
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\wos\\php5\\ext\\php_gd2.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\wos\\php5\\ext\\php_mbstring.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\wos\\php5\\ext\\php_mysql.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Wed Jan 23 16:14:43 2008] [notice] Child 13064: Child process is running
+[Wed Jan 23 16:14:43 2008] [notice] Child 13064: Acquired the start mutex.
+[Wed Jan 23 16:14:43 2008] [notice] Child 13064: Starting 250 worker threads.
+[Wed Jan 23 16:14:43 2008] [notice] Child 13064: Starting thread to listen on port 80.
+[Wed Jan 23 16:15:29 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Jan 23 16:15:29 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Jan 23 16:15:29 2008] [notice] Parent: Created child process 11420
+[Wed Jan 23 16:15:29 2008] [notice] Child 11420: Child process is running
+[Wed Jan 23 16:15:29 2008] [notice] Child 11420: Acquired the start mutex.
+[Wed Jan 23 16:15:29 2008] [notice] Child 11420: Starting 250 worker threads.
+[Wed Jan 23 16:15:29 2008] [notice] Child 11420: Starting thread to listen on port 80.
+[Wed Jan 23 16:20:54 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 16:33:02 2008] [notice] Apache/2.2.8 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Wed Jan 23 16:33:02 2008] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jan 23 16:33:03 2008] [notice] Parent: Created child process 8396
+[Wed Jan 23 16:33:03 2008] [notice] Child 8396: Child process is running
+[Wed Jan 23 16:33:03 2008] [notice] Child 8396: Acquired the start mutex.
+[Wed Jan 23 16:33:03 2008] [notice] Child 8396: Starting 250 worker threads.
+[Wed Jan 23 16:33:03 2008] [notice] Child 8396: Starting thread to listen on port 80.
+[Wed Jan 23 16:58:33 2008] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Jan 23 16:58:33 2008] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jan 23 16:58:33 2008] [notice] Parent: Created child process 12196
+Apache server interrupted...
+otice] Child 12196: Child process is running
+[Wed Jan 23 16:58:33 2008] [notice] Child 12196: Acquired the start mutex.
+[Wed Jan 23 16:58:33 2008] [notice] Child 12196: Starting 250 worker threads.
+[Wed Jan 23 16:58:33 2008] [notice] Child 12196: Starting thread to listen on port 80.
+[Wed Jan 23 16:58:36 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jan 23 16:58:36 2008] [notice] Child 12196: Exit event signaled. Child process is ending.
+[Wed Jan 23 16:58:37 2008] [notice] Child 12196: Released the start mutex
+[Wed Jan 23 16:58:38 2008] [notice] Child 12196: All worker threads have exited.
+[Wed Jan 23 16:58:38 2008] [notice] Child 12196: Child process is exiting
+[Wed Jan 23 16:58:38 2008] [notice] Parent: Child process exited successfully.
+[Wed Jan 23 16:58:44 2008] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Jan 23 16:58:44 2008] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jan 23 16:58:44 2008] [notice] Parent: Created child process 12936
+[Wed Jan 23 16:58:44 2008] [notice] Child 12936: Child process is running
+[Wed Jan 23 16:58:44 2008] [notice] Child 12936: Acquired the start mutex.
+[Wed Jan 23 16:58:44 2008] [notice] Child 12936: Starting 250 worker threads.
+[Wed Jan 23 16:58:44 2008] [notice] Child 12936: Starting thread to listen on port 80.
+[Wed Jan 23 17:01:58 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in E:\\wos_1\\c\\www\\gtd\\header.php on line 16, referer: http://localhost/start/index.php
+[Wed Jan 23 17:02:10 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/gtd/install
+[Wed Jan 23 17:02:12 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in E:\\wos_1\\c\\www\\gtd\\header.php on line 16
+[Wed Jan 23 17:02:47 2008] [error] [client 127.0.0.1] PHP Warning:  require_once(config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in E:\\wos_1\\c\\www\\gtd\\header.php on line 13
+[Wed Jan 23 17:02:47 2008] [error] [client 127.0.0.1] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config.php' (include_path='.;E:\\wos_1\\c\\php5') in E:\\wos_1\\c\\www\\gtd\\header.php on line 13
+[Wed Jan 23 17:02:48 2008] [error] [client 127.0.0.1] PHP Warning:  require_once(config.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in E:\\wos_1\\c\\www\\gtd\\header.php on line 13
+[Wed Jan 23 17:02:48 2008] [error] [client 127.0.0.1] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'config.php' (include_path='.;E:\\wos_1\\c\\php5') in E:\\wos_1\\c\\www\\gtd\\header.php on line 13
+[Wed Jan 23 17:03:07 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in E:\\wos_1\\c\\www\\gtd\\header.php on line 16
+[Wed Jan 23 17:03:27 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in E:\\wos_1\\c\\www\\gtd\\install.php on line 37
+[Wed Jan 23 17:03:47 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in E:\\wos_1\\c\\www\\gtd\\install.php on line 37
+[Wed Jan 23 17:09:19 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/joomla/installation
+[Wed Jan 23 17:11:51 2008] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Wed Jan 23 17:11:51 2008] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Jan 23 17:11:51 2008] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jan 23 17:11:51 2008] [notice] Parent: Created child process 11232
+[Wed Jan 23 17:11:52 2008] [notice] Child 11232: Child process is running
+[Wed Jan 23 17:11:52 2008] [notice] Child 11232: Acquired the start mutex.
+[Wed Jan 23 17:11:52 2008] [notice] Child 11232: Starting 250 worker threads.
+[Wed Jan 23 17:11:52 2008] [notice] Child 11232: Starting thread to listen on port 80.
+[Wed Jan 23 17:12:15 2008] [notice] Parent: child process exited with status 255 -- Restarting.
+[Wed Jan 23 17:12:15 2008] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Jan 23 17:12:15 2008] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jan 23 17:12:15 2008] [notice] Parent: Created child process 13008
+[Wed Jan 23 17:12:15 2008] [notice] Child 13008: Child process is running
+[Wed Jan 23 17:12:15 2008] [notice] Child 13008: Acquired the start mutex.
+[Wed Jan 23 17:12:15 2008] [notice] Child 13008: Starting 250 worker threads.
+[Wed Jan 23 17:12:15 2008] [notice] Child 13008: Starting thread to listen on port 80.
+[Wed Jan 23 17:12:24 2008] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Wed Jan 23 17:12:25 2008] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Jan 23 17:12:25 2008] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jan 23 17:12:25 2008] [notice] Parent: Created child process 10500
+[Wed Jan 23 17:12:25 2008] [notice] Child 10500: Child process is running
+[Wed Jan 23 17:12:25 2008] [notice] Child 10500: Acquired the start mutex.
+[Wed Jan 23 17:12:25 2008] [notice] Child 10500: Starting 250 worker threads.
+[Wed Jan 23 17:12:25 2008] [notice] Child 10500: Starting thread to listen on port 80.
+[Wed Jan 23 17:12:42 2008] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Wed Jan 23 17:12:42 2008] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Jan 23 17:12:42 2008] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jan 23 17:12:42 2008] [notice] Parent: Created child process 12860
+[Wed Jan 23 17:12:42 2008] [notice] Child 12860: Child process is running
+[Wed Jan 23 17:12:42 2008] [notice] Child 12860: Acquired the start mutex.
+[Wed Jan 23 17:12:42 2008] [notice] Child 12860: Starting 250 worker threads.
+[Wed Jan 23 17:12:42 2008] [notice] Child 12860: Starting thread to listen on port 80.
+[Wed Jan 23 17:12:48 2008] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Jan 23 17:12:48 2008] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jan 23 17:12:48 2008] [notice] Parent: Created child process 12580
+[Wed Jan 23 17:12:48 2008] [notice] Child 12580: Child process is running
+[Wed Jan 23 17:12:48 2008] [notice] Child 12580: Acquired the start mutex.
+[Wed Jan 23 17:12:48 2008] [notice] Child 12580: Starting 250 worker threads.
+[Wed Jan 23 17:12:48 2008] [notice] Child 12580: Starting thread to listen on port 80.
+[Wed Jan 23 17:12:58 2008] [notice] Parent: child process exited with status 3221225725 -- Restarting.
+[Wed Jan 23 17:12:58 2008] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Jan 23 17:12:58 2008] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jan 23 17:12:58 2008] [notice] Parent: Created child process 13304
+[Wed Jan 23 17:12:58 2008] [notice] Child 13304: Child process is running
+[Wed Jan 23 17:12:58 2008] [notice] Child 13304: Acquired the start mutex.
+[Wed Jan 23 17:12:58 2008] [notice] Child 13304: Starting 250 worker threads.
+[Wed Jan 23 17:12:58 2008] [notice] Child 13304: Starting thread to listen on port 80.
+[Wed Jan 23 17:13:07 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:13:07 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:13:08 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:13:08 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:14:07 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:14:07 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:14:07 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:14:07 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:14:13 2008] [error] [client 127.0.0.1] (20024)The given path misformatted or contained invalid characters: Cannot map GET /mediawiki/index.php/Special:Specialpages HTTP/1.1 to file, referer: http://127.0.0.1/mediawiki/index.php/Main_Page
+[Wed Jan 23 17:14:14 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:14:14 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:14:14 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:14:14 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:14:48 2008] [error] [client 127.0.0.1] (20024)The given path misformatted or contained invalid characters: Cannot map GET /mediawiki/index.php/Special:Version HTTP/1.1 to file, referer: http://127.0.0.1/mediawiki/index.php/Special:Specialpages
+[Wed Jan 23 17:14:48 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:14:48 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:14:48 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:14:48 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:15:12 2008] [error] [client 127.0.0.1] (20024)The given path misformatted or contained invalid characters: Cannot map GET /mediawiki/index.php/Special:Version HTTP/1.1 to file, referer: http://127.0.0.1/mediawiki/index.php/Special:Specialpages
+[Wed Jan 23 17:16:15 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:15 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:16 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:16 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:21 2008] [error] [client 127.0.0.1] (20024)The given path misformatted or contained invalid characters: Cannot map GET /mediawiki/index.php/WOS_Package:Community_Portal HTTP/1.1 to file, referer: http://127.0.0.1/mediawiki/index.php/Main_Page
+[Wed Jan 23 17:16:21 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:21 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:21 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:21 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:22 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:22 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:22 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:23 2008] [error] [client 127.0.0.1] (20024)The given path misformatted or contained invalid characters: Cannot map GET /mediawiki/index.php/Special:Recentchanges HTTP/1.1 to file, referer: http://127.0.0.1/mediawiki/index.php/Current_events
+[Wed Jan 23 17:16:23 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:23 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:24 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:24 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:24 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:24 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:26 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:26 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:26 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:39 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:39 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:39 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:16:39 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:24:53 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/typo3/admin
+[Wed Jan 23 17:31:07 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/crossdomain.xml
+[Wed Jan 23 17:37:41 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:37:46 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:37:46 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:37:47 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Wed Jan 23 17:38:59 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_list_tables(): supplied argument is not a valid MySQL-Link resource in E:\\wos_1\\c\\www\\typo3beta\\t3lib\\class.t3lib_db.php on line 974, referer: http://127.0.0.1/typo3beta/typo3/install/index.php?mode=123&step=1&password=joh316
+[Wed Jan 23 17:39:23 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in E:\\wos_1\\c\\www\\typo3beta\\t3lib\\class.t3lib_db.php on line 796, referer: http://127.0.0.1/typo3beta/typo3/install/index.php?TYPO3_INSTALL[type]=database&mode=123&step=go
+[Wed Jan 23 17:39:23 2008] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in E:\\wos_1\\c\\www\\typo3beta\\t3lib\\class.t3lib_db.php on line 796, referer: http://127.0.0.1/typo3beta/typo3/install/index.php?TYPO3_INSTALL[type]=database&mode=123&step=go
+[Wed Jan 23 17:39:31 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/typo3beta/typo3/js/ajax.js, referer: http://127.0.0.1/typo3beta/typo3/backend.php
+[Wed Jan 23 18:02:05 2008] [error] [client 127.0.0.1] File does not exist: E:/wos_1/c/www/favicon.ico
+[Thu Mar 12 22:07:24 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Mar 12 22:07:24 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Mar 12 22:07:24 2009] [notice] Parent: Created child process 2948
+[Thu Mar 12 22:07:26 2009] [notice] Child 2948: Child process is running
+[Thu Mar 12 22:07:26 2009] [notice] Child 2948: Acquired the start mutex.
+[Thu Mar 12 22:07:26 2009] [notice] Child 2948: Starting 250 worker threads.
+[Thu Mar 12 22:07:26 2009] [notice] Child 2948: Starting thread to listen on port 80.
+[Thu Mar 12 22:07:26 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/favicon.ico
+[Thu Mar 12 22:08:08 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/start/images/mowesportable.gif, referer: http://localhost/start/index.php
+[Thu Mar 12 22:21:40 2009] [error] [client 127.0.0.1] PHP Warning:  include(appserv/main.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in I:\\mowes_portable\\www\\andresphp\\index.php on line 15
+[Thu Mar 12 22:21:40 2009] [error] [client 127.0.0.1] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'appserv/main.php' for inclusion (include_path='.;I:\\mowes_portable\\php5') in I:\\mowes_portable\\www\\andresphp\\index.php on line 15
+[Thu Mar 12 22:21:40 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/
+[Thu Mar 12 22:21:40 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/
+[Thu Mar 12 22:21:40 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/
+[Thu Mar 12 22:21:40 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/
+[Thu Mar 12 22:21:40 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/
+[Thu Mar 12 22:21:40 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/favicon.ico
+[Thu Mar 12 22:21:52 2009] [error] [client 127.0.0.1] PHP Warning:  include(appserv/main.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in I:\\mowes_portable\\www\\andresphp\\index.php on line 15
+[Thu Mar 12 22:21:52 2009] [error] [client 127.0.0.1] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'appserv/main.php' for inclusion (include_path='.;I:\\mowes_portable\\php5') in I:\\mowes_portable\\www\\andresphp\\index.php on line 15
+[Thu Mar 12 22:21:52 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/index.php
+[Thu Mar 12 22:21:53 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/index.php
+[Thu Mar 12 22:21:53 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/index.php
+[Thu Mar 12 22:21:53 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/index.php
+[Thu Mar 12 22:21:53 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/index.php
+[Thu Mar 12 22:22:34 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in I:\\mowes_portable\\www\\andresphp\\funciones.php on line 120
+[Thu Mar 12 22:23:37 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in I:\\mowes_portable\\www\\andresphp\\funciones.php on line 120
+[Thu Mar 12 22:25:57 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php
+[Thu Mar 12 22:26:03 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=algosobre.html
+[Thu Mar 12 22:26:05 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=aplicacion.html
+[Thu Mar 12 22:26:06 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=gpl.html
+[Thu Mar 12 22:26:08 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=freeware.html
+[Thu Mar 12 22:26:16 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php
+[Thu Mar 12 22:26:16 2009] [error] [client 127.0.0.1] PHP Warning:  include(appserv/main.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in I:\\mowes_portable\\www\\andresphp\\index.php on line 15, referer: http://127.0.0.1/andresphp/index2.php
+[Thu Mar 12 22:26:16 2009] [error] [client 127.0.0.1] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'appserv/main.php' for inclusion (include_path='.;I:\\mowes_portable\\php5') in I:\\mowes_portable\\www\\andresphp\\index.php on line 15, referer: http://127.0.0.1/andresphp/index2.php
+[Thu Mar 12 22:26:16 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/
+[Thu Mar 12 22:26:16 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/
+[Thu Mar 12 22:26:16 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/
+[Thu Mar 12 22:26:16 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/
+[Thu Mar 12 22:26:16 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/appserv, referer: http://127.0.0.1/andresphp/
+[Thu Mar 12 22:26:22 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php
+[Thu Mar 12 22:26:27 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=perfil.php
+[Thu Mar 12 22:26:33 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=perfil.php
+[Thu Mar 12 22:26:36 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=perfil.php
+[Thu Mar 12 22:26:38 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=perfil.php
+[Thu Mar 12 22:26:42 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=perfil.php
+[Thu Mar 12 22:26:46 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=perfil.php
+[Thu Mar 12 22:26:48 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=usuario.php
+[Thu Mar 12 22:26:51 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=menu.php
+[Thu Mar 12 22:26:53 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=submenu.php
+[Thu Mar 12 22:26:55 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=perfilmenu.php
+[Thu Mar 12 22:26:59 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=submenu.php
+[Thu Mar 12 22:27:03 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=menu.php
+[Thu Mar 12 22:27:11 2009] [error] [client 127.0.0.1] script 'I:/mowes_portable/www/andresphp/registrate.php' not found or unable to stat, referer: http://127.0.0.1/andresphp/index2.php?pagina=menu.php
+[Thu Mar 12 22:27:38 2009] [error] [client 127.0.0.1] File does not exist: I:/mowes_portable/www/andresphp/black, referer: http://127.0.0.1/andresphp/index2.php?pagina=menu.php
+[Thu Mar 12 22:40:47 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'localhost' (10061) in I:\\mowes_portable\\www\\help\\control\\conexionbd.php on line 7, referer: http://localhost//help/vista/guardarDepartamento.html
+[Thu Mar 12 22:40:47 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in I:\\mowes_portable\\www\\help\\control\\conexionbd.php on line 16, referer: http://localhost//help/vista/guardarDepartamento.html
+[Thu Mar 12 22:40:47 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_db_query() [<a href='function.mysql-db-query'>function.mysql-db-query</a>]: Access denied for user 'ODBC'@'localhost' (using password: NO) in I:\\mowes_portable\\www\\help\\control\\conexionbd.php on line 33, referer: http://localhost//help/vista/guardarDepartamento.html
+[Thu Mar 12 22:40:47 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_db_query() [<a href='function.mysql-db-query'>function.mysql-db-query</a>]: A link to the server could not be established in I:\\mowes_portable\\www\\help\\control\\conexionbd.php on line 33, referer: http://localhost//help/vista/guardarDepartamento.html
+[Thu Mar 12 23:24:45 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Mar 12 23:24:45 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Mar 12 23:24:45 2009] [notice] Parent: Created child process 5128
+[Thu Mar 12 23:24:47 2009] [notice] Child 5128: Child process is running
+[Thu Mar 12 23:24:47 2009] [notice] Child 5128: Acquired the start mutex.
+[Thu Mar 12 23:24:47 2009] [notice] Child 5128: Starting 250 worker threads.
+[Thu Mar 12 23:24:47 2009] [notice] Child 5128: Starting thread to listen on port 80.
+[Fri Mar 13 00:33:47 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Fri Mar 13 00:33:47 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Mar 13 00:33:47 2009] [notice] Parent: Created child process 2172
+[Fri Mar 13 00:33:48 2009] [notice] Child 2172: Child process is running
+[Fri Mar 13 00:33:48 2009] [notice] Child 2172: Acquired the start mutex.
+[Fri Mar 13 00:33:48 2009] [notice] Child 2172: Starting 250 worker threads.
+[Fri Mar 13 00:33:48 2009] [notice] Child 2172: Starting thread to listen on port 80.
+[Fri Mar 13 00:37:11 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'usuario'@'localhost' (using password: YES) in J:\\mowes_portable\\www\\php-mysql.php on line 2
+[Fri Mar 13 00:37:11 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in J:\\mowes_portable\\www\\php-mysql.php on line 3
+[Fri Mar 13 00:37:11 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in J:\\mowes_portable\\www\\php-mysql.php on line 6
+[Fri Mar 13 00:41:15 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on 'internal-db.s10556.gridserver.com' (10061) in J:\\mowes_portable\\www\\pdf-php-mysql\\php-mysql.php on line 7
+[Fri Mar 13 00:41:15 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in J:\\mowes_portable\\www\\pdf-php-mysql\\php-mysql.php on line 8
+[Fri Mar 13 00:41:15 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in J:\\mowes_portable\\www\\pdf-php-mysql\\php-mysql.php on line 10
+[Tue Mar 17 14:40:26 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Tue Mar 17 14:40:26 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Mar 17 14:40:26 2009] [notice] Parent: Created child process 1768
+[Tue Mar 17 14:40:27 2009] [notice] Child 1768: Child process is running
+[Tue Mar 17 14:40:27 2009] [notice] Child 1768: Acquired the start mutex.
+[Tue Mar 17 14:40:27 2009] [notice] Child 1768: Starting 250 worker threads.
+[Tue Mar 17 14:40:27 2009] [notice] Child 1768: Starting thread to listen on port 80.
+[Tue Mar 17 14:41:47 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Tue Mar 17 14:41:47 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Mar 17 14:41:47 2009] [notice] Parent: Created child process 4900
+[Tue Mar 17 14:41:48 2009] [notice] Child 4900: Child process is running
+[Tue Mar 17 14:41:48 2009] [notice] Child 4900: Acquired the start mutex.
+[Tue Mar 17 14:41:48 2009] [notice] Child 4900: Starting 250 worker threads.
+[Tue Mar 17 14:41:48 2009] [notice] Child 4900: Starting thread to listen on port 81.
+[Tue Mar 17 14:41:54 2009] [error] [client 127.0.0.1] File does not exist: E:/mowes/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Tue Mar 17 14:41:54 2009] [error] [client 127.0.0.1] File does not exist: E:/mowes/www/favicon.ico
+[Tue Mar 17 14:54:35 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Tue Mar 17 14:54:35 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Mar 17 14:54:35 2009] [notice] Parent: Created child process 3472
+[Tue Mar 17 14:54:36 2009] [notice] Child 3472: Child process is running
+[Tue Mar 17 14:54:36 2009] [notice] Child 3472: Acquired the start mutex.
+[Tue Mar 17 14:54:36 2009] [notice] Child 3472: Starting 250 worker threads.
+[Tue Mar 17 14:54:36 2009] [notice] Child 3472: Starting thread to listen on port 81.
+[Tue Mar 17 14:54:46 2009] [error] [client 127.0.0.1] File does not exist: E:/Appserv/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Tue Mar 17 14:54:51 2009] [error] [client 127.0.0.1] File does not exist: E:/Appserv/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Tue Mar 17 14:54:58 2009] [error] [client 127.0.0.1] File does not exist: E:/Appserv/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Thu Mar 26 09:22:17 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Mar 26 09:22:17 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Mar 26 09:22:17 2009] [notice] Parent: Created child process 2452
+[Thu Mar 26 09:22:18 2009] [notice] Child 2452: Child process is running
+[Thu Mar 26 09:22:18 2009] [notice] Child 2452: Acquired the start mutex.
+[Thu Mar 26 09:22:18 2009] [notice] Child 2452: Starting 250 worker threads.
+[Thu Mar 26 09:22:18 2009] [notice] Child 2452: Starting thread to listen on port 81.
+[Thu Mar 26 10:39:41 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ',' or ';' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\control\\CrtArea.php on line 5, referer: http://localhost:81/help/vista/guardarArea.html
+[Thu Mar 26 10:43:29 2009] [error] [client 127.0.0.1] PHP Warning:  include(../control/conexionbd.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\vista\\guardarArea.php on line 5, referer: http://localhost:81/help/vista/guardarArea.html
+[Thu Mar 26 10:43:29 2009] [error] [client 127.0.0.1] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../control/conexionbd.php' for inclusion (include_path='.;C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\php5') in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\vista\\guardarArea.php on line 5, referer: http://localhost:81/help/vista/guardarArea.html
+[Thu Mar 26 10:43:29 2009] [error] [client 127.0.0.1] PHP Fatal error:  Class 'CtrConexion' not found in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\control\\CrtArea.php on line 18, referer: http://localhost:81/help/vista/guardarArea.html
+[Thu Mar 26 11:02:51 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VAR in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\control\\CtrConexion.php on line 5, referer: http://localhost:81/help/vista/guardarArea.html
+[Thu Mar 26 11:32:41 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\control\\CrtArea.php on line 52, referer: http://localhost:81/help/vista/guardarArea.html
+[Thu Mar 26 11:46:34 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '>' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\control\\CrtArea.php on line 50, referer: http://localhost:81/help/vista/listarAreas.html
+[Thu Mar 26 11:47:29 2009] [error] [client 127.0.0.1] PHP Warning:  Missing argument 1 for CtrArea::CtrArea(), called in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\vista\\ListarAreas.php on line 8 and defined in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\control\\CrtArea.php on line 5, referer: http://localhost:81/help/vista/listarAreas.html
+[Thu Mar 26 11:49:05 2009] [error] [client 127.0.0.1] PHP Warning:  Missing argument 1 for CtrArea::CtrArea(), called in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\vista\\ListarAreas.php on line 8 and defined in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\control\\CrtArea.php on line 5, referer: http://localhost:81/help/vista/listarAreas.html
+[Thu Mar 26 11:50:44 2009] [error] [client 127.0.0.1] PHP Fatal error:  Cannot redeclare CtrArea::CtrArea() in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\control\\CrtArea.php on line 9, referer: http://localhost:81/help/vista/listarAreas.html
+[Thu Mar 26 11:53:16 2009] [error] [client 127.0.0.1] PHP Fatal error:  Cannot redeclare CtrArea::CtrArea() in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\control\\CrtArea.php on line 9, referer: http://localhost:81/help/vista/listarAreas.html
+[Thu Mar 26 11:54:57 2009] [error] [client 127.0.0.1] PHP Fatal error:  Cannot redeclare CtrArea::CtrArea() in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\Lo que es para PHP\\Mowes\\www\\help\\control\\CrtArea.php on line 9, referer: http://localhost:81/help/vista/listarAreas.html
+[Thu Mar 26 12:47:23 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Mar 26 12:47:23 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Mar 26 12:47:23 2009] [notice] Parent: Created child process 2648
+[Thu Mar 26 12:47:24 2009] [notice] Child 2648: Child process is running
+[Thu Mar 26 12:47:24 2009] [notice] Child 2648: Acquired the start mutex.
+[Thu Mar 26 12:47:24 2009] [notice] Child 2648: Starting 250 worker threads.
+[Thu Mar 26 12:47:24 2009] [notice] Child 2648: Starting thread to listen on port 81.
+[Thu Mar 26 12:54:37 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Mar 26 12:54:37 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Mar 26 12:54:37 2009] [notice] Parent: Created child process 3612
+[Thu Mar 26 12:54:37 2009] [notice] Child 3612: Child process is running
+[Thu Mar 26 12:54:37 2009] [notice] Child 3612: Acquired the start mutex.
+[Thu Mar 26 12:54:37 2009] [notice] Child 3612: Starting 250 worker threads.
+[Thu Mar 26 12:54:37 2009] [notice] Child 3612: Starting thread to listen on port 81.
+[Thu Mar 26 12:57:25 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\leveto\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 59, referer: http://localhost:81/help/vista/
+[Wed Apr 01 14:33:18 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Apr 01 14:33:18 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Apr 01 14:33:18 2009] [notice] Parent: Created child process 3252
+[Wed Apr 01 14:33:19 2009] [notice] Child 3252: Child process is running
+[Wed Apr 01 14:33:19 2009] [notice] Child 3252: Acquired the start mutex.
+[Wed Apr 01 14:33:19 2009] [notice] Child 3252: Starting 250 worker threads.
+[Wed Apr 01 14:33:19 2009] [notice] Child 3252: Starting thread to listen on port 81.
+[Wed Apr 01 15:10:06 2009] [error] [client 127.0.0.1] PHP Warning:  CtrArea::include(../modelo/guardarArea1.php) [<a href='function.CtrArea-include'>function.CtrArea-include</a>]: failed to open stream: No such file or directory in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 115, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:10:06 2009] [error] [client 127.0.0.1] PHP Warning:  CtrArea::include() [<a href='function.include'>function.include</a>]: Failed opening '../modelo/guardarArea1.php' for inclusion (include_path='.;I:\\PHPMYSQLAPACHE\\Mowes\\php5') in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 115, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:10:18 2009] [error] [client 127.0.0.1] File does not exist: I:/PHPMYSQLAPACHE/Mowes/www/help/vista/function.CtrArea-include, referer: http://localhost:81/help/vista/listarAreas.php
+[Wed Apr 01 15:10:20 2009] [error] [client 127.0.0.1] File does not exist: I:/PHPMYSQLAPACHE/Mowes/www/help/vista/function.include, referer: http://localhost:81/help/vista/listarAreas.php
+[Wed Apr 01 15:10:42 2009] [error] [client 127.0.0.1] PHP Warning:  CtrArea::include(../modelo/guardarArea1.php) [<a href='function.CtrArea-include'>function.CtrArea-include</a>]: failed to open stream: No such file or directory in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 110, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:10:42 2009] [error] [client 127.0.0.1] PHP Warning:  CtrArea::include() [<a href='function.include'>function.include</a>]: Failed opening '../modelo/guardarArea1.php' for inclusion (include_path='.;I:\\PHPMYSQLAPACHE\\Mowes\\php5') in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 110, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:11:10 2009] [error] [client 127.0.0.1] PHP Warning:  CtrArea::include(../modelo/guardarArea1.html) [<a href='function.CtrArea-include'>function.CtrArea-include</a>]: failed to open stream: No such file or directory in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 110, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:11:10 2009] [error] [client 127.0.0.1] PHP Warning:  CtrArea::include() [<a href='function.include'>function.include</a>]: Failed opening '../modelo/guardarArea1.html' for inclusion (include_path='.;I:\\PHPMYSQLAPACHE\\Mowes\\php5') in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 110, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:11:19 2009] [error] [client 127.0.0.1] PHP Warning:  CtrArea::include(../modelo/guardarArea1.html) [<a href='function.CtrArea-include'>function.CtrArea-include</a>]: failed to open stream: No such file or directory in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 110, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:11:19 2009] [error] [client 127.0.0.1] PHP Warning:  CtrArea::include() [<a href='function.include'>function.include</a>]: Failed opening '../modelo/guardarArea1.html' for inclusion (include_path='.;I:\\PHPMYSQLAPACHE\\Mowes\\php5') in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 110, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:14:37 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '<' in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 116, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:15:16 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 123, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:26:16 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\vista\\consultarArea1.php on line 9
+[Wed Apr 01 15:26:35 2009] [error] [client 127.0.0.1] PHP Fatal error:  Cannot use [] for reading in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 116
+[Wed Apr 01 15:26:36 2009] [error] [client 127.0.0.1] PHP Fatal error:  Cannot use [] for reading in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 116
+[Wed Apr 01 15:26:36 2009] [error] [client 127.0.0.1] PHP Fatal error:  Cannot use [] for reading in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 116
+[Wed Apr 01 15:26:36 2009] [error] [client 127.0.0.1] PHP Fatal error:  Cannot use [] for reading in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 116
+[Wed Apr 01 15:39:56 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_LNUMBER in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 110, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:40:55 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_LNUMBER in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 110, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:42:03 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 118, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:42:34 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 118, referer: http://localhost:81/help/vista/listarAreas.html
+[Wed Apr 01 15:55:44 2009] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function listarAreas() in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\vista\\consultarArea1.php on line 9
+[Wed Apr 01 15:56:12 2009] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function listarAreas() in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\vista\\consultarArea1.php on line 9
+[Wed Apr 01 15:56:44 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\vista\\consultarArea1.php on line 9
+[Wed Apr 01 15:57:53 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\vista\\consultarArea1.php on line 9
+[Wed Apr 01 15:57:54 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\vista\\consultarArea1.php on line 9
+[Wed Apr 01 15:57:54 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\vista\\consultarArea1.php on line 9
+[Wed Apr 01 15:57:54 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\vista\\consultarArea1.php on line 9
+[Wed Apr 01 15:58:17 2009] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function listarAreas() on a non-object in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\vista\\consultarArea1.php on line 9
+[Wed Apr 01 15:58:18 2009] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function listarAreas() on a non-object in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\vista\\consultarArea1.php on line 9
+[Wed Apr 01 16:00:22 2009] [error] [client 127.0.0.1] PHP Fatal error:  Class 'CtrConexion' not found in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 97
+[Wed Apr 01 16:00:50 2009] [error] [client 127.0.0.1] PHP Warning:  include(../control/CrtConexion.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\vista\\consultarArea1.php on line 8
+[Wed Apr 01 16:00:50 2009] [error] [client 127.0.0.1] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../control/CrtConexion.php' for inclusion (include_path='.;I:\\PHPMYSQLAPACHE\\Mowes\\php5') in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\vista\\consultarArea1.php on line 8
+[Wed Apr 01 16:00:50 2009] [error] [client 127.0.0.1] PHP Fatal error:  Class 'CtrConexion' not found in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 97
+[Wed Apr 01 16:20:51 2009] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting ',' or ';' in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\vista\\guardarArea.php on line 21, referer: http://localhost:81/help/vista/guardarArea.html
+[Wed Apr 01 16:21:41 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 59, referer: http://localhost:81/help/vista/guardarArea.php
+[Wed Apr 01 16:22:35 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 59, referer: http://localhost:81/help/vista/guardarArea.php
+[Wed Apr 01 17:17:51 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help\\control\\CrtArea.php on line 59
+[Wed Apr 01 19:08:12 2009] [error] [client 127.0.0.1] File does not exist: I:/PHPMYSQLAPACHE/Mowes/www/help
+[Wed Apr 01 19:08:57 2009] [error] [client 127.0.0.1] File does not exist: I:/PHPMYSQLAPACHE/Mowes/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Wed Apr 01 19:15:24 2009] [error] [client 127.0.0.1] File does not exist: I:/PHPMYSQLAPACHE/Mowes/www/help
+[Wed Apr 01 19:15:36 2009] [error] [client 127.0.0.1] File does not exist: I:/PHPMYSQLAPACHE/Mowes/www/help1/vistaArea.html
+[Wed Apr 01 21:09:13 2009] [error] [client 127.0.0.1] PHP Warning:  Missing argument 1 for CtrArea::CtrArea(), called in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help1\\vista\\VistaArea.php on line 67 and defined in I:\\PHPMYSQLAPACHE\\Mowes\\www\\help1\\control\\CtrArea.php on line 5, referer: http://127.0.0.1:81/help1/vista/vistaArea.html
+[Mon May 04 11:40:26 2009] [warn] pid file C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon May 04 11:40:26 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Mon May 04 11:40:26 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Mon May 04 11:40:26 2009] [notice] Parent: Created child process 2768
+[Mon May 04 11:40:26 2009] [notice] Child 2768: Child process is running
+[Mon May 04 11:40:26 2009] [notice] Child 2768: Acquired the start mutex.
+[Mon May 04 11:40:26 2009] [notice] Child 2768: Starting 250 worker threads.
+[Mon May 04 11:40:26 2009] [notice] Child 2768: Starting thread to listen on port 81.
+[Mon May 04 11:43:38 2009] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/help
+"C:\Documents" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+[Mon May 04 11:43:44 2009] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/start/images/mowesportable.gif, referer: http://127.0.0.1:81/start/index.php
+[Mon May 04 11:43:52 2009] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/help
+[Wed May 13 09:48:33 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed May 13 09:48:33 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Wed May 13 09:48:33 2009] [notice] Parent: Created child process 256
+[Wed May 13 09:48:33 2009] [notice] Child 256: Child process is running
+[Wed May 13 09:48:33 2009] [notice] Child 256: Acquired the start mutex.
+[Wed May 13 09:48:33 2009] [notice] Child 256: Starting 250 worker threads.
+[Wed May 13 09:48:33 2009] [notice] Child 256: Starting thread to listen on port 81.
+[Wed May 13 09:49:51 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed May 13 09:49:51 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Wed May 13 09:49:51 2009] [notice] Parent: Created child process 1728
+[Wed May 13 09:49:51 2009] [notice] Child 1728: Child process is running
+[Wed May 13 09:49:51 2009] [notice] Child 1728: Acquired the start mutex.
+[Wed May 13 09:49:51 2009] [notice] Child 1728: Starting 250 worker threads.
+[Wed May 13 09:49:51 2009] [notice] Child 1728: Starting thread to listen on port 81.
+[Wed May 13 09:50:22 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed May 13 09:50:22 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Wed May 13 09:50:22 2009] [notice] Parent: Created child process 1320
+[Wed May 13 09:50:23 2009] [notice] Child 1320: Child process is running
+[Wed May 13 09:50:23 2009] [notice] Child 1320: Acquired the start mutex.
+[Wed May 13 09:50:23 2009] [notice] Child 1320: Starting 250 worker threads.
+[Wed May 13 09:50:23 2009] [notice] Child 1320: Starting thread to listen on port 81.
+[Tue Nov 03 10:41:34 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Tue Nov 03 10:41:34 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Nov 03 10:41:34 2009] [notice] Parent: Created child process 1932
+[Tue Nov 03 10:41:34 2009] [notice] Child 1932: Child process is running
+[Tue Nov 03 10:41:34 2009] [notice] Child 1932: Acquired the start mutex.
+[Tue Nov 03 10:41:34 2009] [notice] Child 1932: Starting 250 worker threads.
+[Tue Nov 03 10:41:34 2009] [notice] Child 1932: Starting thread to listen on port 81.
+[Tue Nov 03 10:56:16 2009] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Tue Nov 03 10:56:19 2009] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Tue Nov 03 10:56:19 2009] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Tue Nov 03 10:56:52 2009] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\help1\\control\\CtrArea.php on line 65, referer: http://localhost:81/help1/vista/vistaArea.php
+[Tue Nov 03 11:02:22 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Tue Nov 03 11:02:22 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Nov 03 11:02:22 2009] [notice] Parent: Created child process 4060
+[Tue Nov 03 11:02:22 2009] [notice] Child 4060: Child process is running
+[Tue Nov 03 11:02:22 2009] [notice] Child 4060: Acquired the start mutex.
+[Tue Nov 03 11:02:22 2009] [notice] Child 4060: Starting 250 worker threads.
+[Tue Nov 03 11:02:22 2009] [notice] Child 4060: Starting thread to listen on port 81.
+[Thu Nov 05 16:26:16 2009] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Nov 05 16:26:16 2009] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Nov 05 16:26:16 2009] [notice] Parent: Created child process 3044
+[Thu Nov 05 16:26:16 2009] [notice] Child 3044: Child process is running
+[Thu Nov 05 16:26:16 2009] [notice] Child 3044: Acquired the start mutex.
+[Thu Nov 05 16:26:16 2009] [notice] Child 3044: Starting 250 worker threads.
+[Thu Nov 05 16:26:16 2009] [notice] Child 3044: Starting thread to listen on port 81.
+[Thu Nov 05 16:39:33 2009] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Mon Apr 19 16:38:08 2010] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Mon Apr 19 16:38:08 2010] [notice] Server built: Jan 18 2008 00:37:19
+[Mon Apr 19 16:38:08 2010] [notice] Parent: Created child process 2336
+[Mon Apr 19 16:38:09 2010] [notice] Child 2336: Child process is running
+[Mon Apr 19 16:38:09 2010] [notice] Child 2336: Acquired the start mutex.
+[Mon Apr 19 16:38:09 2010] [notice] Child 2336: Starting 250 worker threads.
+[Mon Apr 19 16:38:09 2010] [notice] Child 2336: Starting thread to listen on port 81.
+"C:\Documents" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+[Tue Apr 20 10:49:48 2010] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Tue Apr 20 10:49:59 2010] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/vista
+[Tue Apr 20 10:53:01 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '&' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\login.php on line 17, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 10:53:58 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\login.php on line 17, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 10:54:17 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\login.php on line 17, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 10:57:21 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\login.php on line 24, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:02:35 2010] [error] [client 127.0.0.1] PHP Fatal error:  Cannot redeclare Usuario::Usuario() in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\modelo\\Usuario.php on line 13, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:04:24 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\Usuarios.php on line 15, referer: http://localhost:81/facturas/vista/
+[Tue Apr 20 11:04:31 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\modelo\\Usuario.php on line 19, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:05:31 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '=' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\modelo\\Usuario.php on line 24, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:05:58 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '=' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\modelo\\Usuario.php on line 24, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:06:13 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '=' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\modelo\\Usuario.php on line 24, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:06:39 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected ')' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 31, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:07:44 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_PUBLIC in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\modelo\\Usuario.php on line 2, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:08:08 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected ')' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 31, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:16:23 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method CtrUsuario::validarIngreso() in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\login.php on line 21, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:17:03 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method CtrUsuario::validarIngreso() in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\login.php on line 19, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:35:43 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 124, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:36:22 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '=' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 149, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:36:47 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '=' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 153, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:37:05 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 130, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:38:50 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 130, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:43:05 2010] [error] [client 127.0.0.1] PHP Fatal error:  Cannot redeclare class Usuario in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\modelo\\Usuario.php on line 2, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:44:19 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 131, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:48:05 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:49:11 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:50:43 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:51:25 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:52:47 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:52:55 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:53:40 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:54:36 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:54:48 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:55:20 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:55:38 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:56:46 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\login.php on line 17, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:57:07 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:58:29 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:58:38 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:58:43 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 11:59:17 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 132, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 12:01:18 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 138, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 12:01:18 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 149, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 12:02:16 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 139, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 12:02:16 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 150, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 12:04:57 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 139, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 12:08:50 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 139, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 12:09:26 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 139, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 12:09:58 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 139, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 12:13:21 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 140, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 12:16:33 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 143, referer: http://localhost:81/facturas/vista/ingresar.html
+[Tue Apr 20 12:19:47 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\Usuarios.php on line 15, referer: http://localhost:81/facturas/vista/Menu.php
+[Tue Apr 20 12:20:53 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\Usuarios.php on line 15, referer: http://localhost:81/facturas/vista/
+[Tue Apr 20 12:27:48 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\Usuarios.php on line 15, referer: http://localhost:81/facturas/vista/Menu.php
+[Tue Apr 20 12:29:39 2010] [error] [client 127.0.0.1] script 'C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/facturas/vista/Usuarios.php' not found or unable to stat, referer: http://localhost:81/facturas/vista/Menu.php
+[Tue Apr 20 12:29:44 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 15, referer: http://localhost:81/facturas/vista/Menu.php
+[Tue Apr 20 12:34:25 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 23, referer: http://localhost:81/facturas/vista/Menu.php
+[Tue Apr 20 12:35:47 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 23, referer: http://localhost:81/facturas/vista/Menu.php
+[Tue Apr 20 12:37:00 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 41, referer: http://localhost:81/facturas/vista/Menu.php
+[Tue Apr 20 12:38:07 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 58, referer: http://localhost:81/facturas/vista/Menu.php
+[Tue Apr 20 12:39:04 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '=' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 91, referer: http://localhost:81/facturas/vista/Menu.php
+[Tue Apr 20 12:44:28 2010] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/facturas/vista/Usuarios.jsp, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 12:45:09 2010] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/facturas/vista/VUsuarios.jsp, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 12:56:39 2010] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Usuario' not found in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 52, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 12:58:49 2010] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Usuario' not found in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 53, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 12:59:48 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method CtrUsuario::listar() in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 57, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:00:31 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 99, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:00:31 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 109, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:00:31 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 118, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:01:38 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 99, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:01:38 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 109, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:01:38 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 118, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:01:55 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 99, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:01:55 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 109, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:01:55 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 118, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:05:59 2010] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 115, referer: http://localhost:81/facturas/vista/Menu.php
+[Tue Apr 20 13:14:26 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 65, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:16:38 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 65, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:18:59 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method CtrUsuario::modificar() in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 28, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:20:31 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 38, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:22:18 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 37, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:23:06 2010] [error] [client 127.0.0.1] PHP Fatal error:  Using $this when not in object context in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 37, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 13:25:10 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 37, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 14:00:40 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 18, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 14:00:59 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 18, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 14:01:16 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\control\\CtrUsuario.php on line 18, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 14:05:39 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 46, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 14:07:51 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 46, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 14:09:25 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 46, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Tue Apr 20 14:10:48 2010] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getNomUsuario() on a non-object in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\facturas\\vista\\VUsuarios.php on line 46, referer: http://localhost:81/facturas/vista/VUsuarios.php
+[Wed Apr 21 14:54:06 2010] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Apr 21 14:54:06 2010] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Apr 21 14:54:06 2010] [notice] Parent: Created child process 5920
+[Wed Apr 21 14:54:07 2010] [notice] Child 5920: Child process is running
+[Wed Apr 21 14:54:07 2010] [notice] Child 5920: Acquired the start mutex.
+[Wed Apr 21 14:54:07 2010] [notice] Child 5920: Starting 250 worker threads.
+[Wed Apr 21 14:54:07 2010] [notice] Child 5920: Starting thread to listen on port 81.
+[Wed Apr 21 14:54:57 2010] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/MVC
+[Thu Apr 22 12:20:40 2010] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Apr 22 12:20:40 2010] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Apr 22 12:20:40 2010] [notice] Parent: Created child process 4024
+[Thu Apr 22 12:20:40 2010] [notice] Child 4024: Child process is running
+[Thu Apr 22 12:20:40 2010] [notice] Child 4024: Acquired the start mutex.
+[Thu Apr 22 12:20:40 2010] [notice] Child 4024: Starting 250 worker threads.
+[Thu Apr 22 12:20:40 2010] [notice] Child 4024: Starting thread to listen on port 81.
+[Thu Apr 22 12:26:28 2010] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/MVC_PHP
+[Thu Apr 22 12:26:38 2010] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/facturas
+[Thu Apr 22 12:27:47 2010] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Apr 22 12:27:47 2010] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Apr 22 12:27:47 2010] [notice] Parent: Created child process 5400
+[Thu Apr 22 12:27:47 2010] [notice] Child 5400: Child process is running
+[Thu Apr 22 12:27:47 2010] [notice] Child 5400: Acquired the start mutex.
+[Thu Apr 22 12:27:47 2010] [notice] Child 5400: Starting 250 worker threads.
+[Thu Apr 22 12:27:47 2010] [notice] Child 5400: Starting thread to listen on port 81.
+[Thu Apr 22 13:45:39 2010] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Apr 22 13:45:39 2010] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Apr 22 13:45:39 2010] [notice] Parent: Created child process 4244
+[Thu Apr 22 13:45:39 2010] [notice] Child 4244: Child process is running
+[Thu Apr 22 13:45:39 2010] [notice] Child 4244: Acquired the start mutex.
+[Thu Apr 22 13:45:39 2010] [notice] Child 4244: Starting 250 worker threads.
+[Thu Apr 22 13:45:39 2010] [notice] Child 4244: Starting thread to listen on port 81.
+[Fri Apr 23 17:05:36 2010] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Fri Apr 23 17:05:36 2010] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Apr 23 17:05:36 2010] [notice] Parent: Created child process 4732
+[Fri Apr 23 17:05:36 2010] [notice] Child 4732: Child process is running
+[Fri Apr 23 17:05:36 2010] [notice] Child 4732: Acquired the start mutex.
+[Fri Apr 23 17:05:36 2010] [notice] Child 4732: Starting 250 worker threads.
+[Fri Apr 23 17:05:36 2010] [notice] Child 4732: Starting thread to listen on port 81.
+[Thu Jun 03 17:16:38 2010] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Jun 03 17:16:38 2010] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Jun 03 17:16:38 2010] [notice] Parent: Created child process 5132
+[Thu Jun 03 17:16:39 2010] [notice] Child 5132: Child process is running
+[Thu Jun 03 17:16:39 2010] [notice] Child 5132: Acquired the start mutex.
+[Thu Jun 03 17:16:39 2010] [notice] Child 5132: Starting 250 worker threads.
+[Thu Jun 03 17:16:39 2010] [notice] Child 5132: Starting thread to listen on port 81.
+"C:\Documents" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+[Thu Jun 03 17:17:11 2010] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Thu Jun 03 17:17:44 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\INGESOFTWARE\\MODELO\\funciones.php on line 135, referer: http://localhost:81/INGESOFTWARE/
+[Thu Jun 03 17:17:44 2010] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\INGESOFTWARE\\MODELO\\funciones.php on line 172, referer: http://localhost:81/INGESOFTWARE/
+[Thu Jun 03 17:33:44 2010] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Wed Oct 27 15:10:12 2010] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Oct 27 15:10:12 2010] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Oct 27 15:10:12 2010] [notice] Parent: Created child process 2652
+[Wed Oct 27 15:10:12 2010] [notice] Child 2652: Child process is running
+[Wed Oct 27 15:10:13 2010] [notice] Child 2652: Acquired the start mutex.
+[Wed Oct 27 15:10:13 2010] [notice] Child 2652: Starting 250 worker threads.
+[Wed Oct 27 15:10:13 2010] [notice] Child 2652: Starting thread to listen on port 81.
+"C:\Documents" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+[Wed Oct 27 15:16:28 2010] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Wed Oct 27 15:22:09 2010] [error] [client 127.0.0.1] PHP Warning:  require_once(usuarios/admusuarios.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\INGESOFTWARE\\MODELO\\funciones.php on line 197, referer: http://localhost:81/INGESOFTWARE/VISTA/
+[Wed Oct 27 15:22:09 2010] [error] [client 127.0.0.1] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'usuarios/admusuarios.php' (include_path='.;C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\php5') in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\INGESOFTWARE\\MODELO\\funciones.php on line 197, referer: http://localhost:81/INGESOFTWARE/VISTA/
+[Wed Oct 27 15:22:11 2010] [error] [client 127.0.0.1] PHP Warning:  require_once(hacker.html) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\INGESOFTWARE\\MODELO\\funciones.php on line 197, referer: http://localhost:81/INGESOFTWARE/VISTA/index.php?pagina=usuarios/admusuarios.php
+[Wed Oct 27 15:22:11 2010] [error] [client 127.0.0.1] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'hacker.html' (include_path='.;C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\php5') in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\INGESOFTWARE\\MODELO\\funciones.php on line 197, referer: http://localhost:81/INGESOFTWARE/VISTA/index.php?pagina=usuarios/admusuarios.php
+[Wed Oct 27 15:22:12 2010] [error] [client 127.0.0.1] PHP Warning:  require_once(craker.html) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\INGESOFTWARE\\MODELO\\funciones.php on line 197, referer: http://localhost:81/INGESOFTWARE/VISTA/index.php?pagina=hacker.html
+[Wed Oct 27 15:22:12 2010] [error] [client 127.0.0.1] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'craker.html' (include_path='.;C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\php5') in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\INGESOFTWARE\\MODELO\\funciones.php on line 197, referer: http://localhost:81/INGESOFTWARE/VISTA/index.php?pagina=hacker.html
+[Wed Oct 27 15:22:13 2010] [error] [client 127.0.0.1] PHP Warning:  require_once(phreacker.html) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\INGESOFTWARE\\MODELO\\funciones.php on line 197, referer: http://localhost:81/INGESOFTWARE/VISTA/index.php?pagina=craker.html
+[Wed Oct 27 15:22:13 2010] [error] [client 127.0.0.1] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'phreacker.html' (include_path='.;C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\php5') in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\INGESOFTWARE\\MODELO\\funciones.php on line 197, referer: http://localhost:81/INGESOFTWARE/VISTA/index.php?pagina=craker.html
+[Wed Oct 27 15:22:19 2010] [error] [client 127.0.0.1] PHP Warning:  require_once(ji.html) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\INGESOFTWARE\\MODELO\\funciones.php on line 197, referer: http://localhost:81/INGESOFTWARE/VISTA/index.php?pagina=phreacker.html
+[Wed Oct 27 15:22:19 2010] [error] [client 127.0.0.1] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ji.html' (include_path='.;C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\php5') in C:\\Documents and Settings\\carlos.castro\\Mis documentos\\PHPMYSQLAPACHE\\Mowes\\www\\INGESOFTWARE\\MODELO\\funciones.php on line 197, referer: http://localhost:81/INGESOFTWARE/VISTA/index.php?pagina=phreacker.html
+[Wed Oct 27 15:23:35 2010] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/OTRO/phpmkrlogo5.png, referer: http://localhost:81/OTRO/login.php
+[Thu Oct 28 19:43:31 2010] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Oct 28 19:43:31 2010] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Oct 28 19:43:31 2010] [notice] Parent: Created child process 2536
+[Thu Oct 28 19:43:31 2010] [notice] Child 2536: Child process is running
+[Thu Oct 28 19:43:31 2010] [notice] Child 2536: Acquired the start mutex.
+[Thu Oct 28 19:43:31 2010] [notice] Child 2536: Starting 250 worker threads.
+[Thu Oct 28 19:43:31 2010] [notice] Child 2536: Starting thread to listen on port 81.
+[Fri Feb 25 17:04:54 2011] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Fri Feb 25 17:04:54 2011] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Feb 25 17:04:54 2011] [notice] Parent: Created child process 9492
+[Fri Feb 25 17:04:55 2011] [notice] Child 9492: Child process is running
+[Fri Feb 25 17:04:55 2011] [notice] Child 9492: Acquired the start mutex.
+[Fri Feb 25 17:04:55 2011] [notice] Child 9492: Starting 250 worker threads.
+[Fri Feb 25 17:04:55 2011] [notice] Child 9492: Starting thread to listen on port 81.
+"C:\Documents" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+[Fri Feb 25 17:05:29 2011] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Fri Feb 25 17:05:29 2011] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Mon May 16 17:44:42 2011] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Mon May 16 17:44:42 2011] [notice] Server built: Jan 18 2008 00:37:19
+[Mon May 16 17:44:42 2011] [notice] Parent: Created child process 5468
+[Mon May 16 17:44:42 2011] [notice] Child 5468: Child process is running
+[Mon May 16 17:44:42 2011] [notice] Child 5468: Acquired the start mutex.
+[Mon May 16 17:44:42 2011] [notice] Child 5468: Starting 250 worker threads.
+[Mon May 16 17:44:42 2011] [notice] Child 5468: Starting thread to listen on port 81.
+"C:\Documents" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+[Mon May 16 17:46:22 2011] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Mon May 16 17:46:22 2011] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Tue May 24 12:29:04 2011] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Tue May 24 12:29:04 2011] [notice] Server built: Jan 18 2008 00:37:19
+[Tue May 24 12:29:04 2011] [notice] Parent: Created child process 5036
+[Tue May 24 12:29:04 2011] [notice] Child 5036: Child process is running
+[Tue May 24 12:29:04 2011] [notice] Child 5036: Acquired the start mutex.
+[Tue May 24 12:29:04 2011] [notice] Child 5036: Starting 250 worker threads.
+[Tue May 24 12:29:04 2011] [notice] Child 5036: Starting thread to listen on port 81.
+"C:\Documents" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+[Tue May 24 12:29:30 2011] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Tue May 24 12:29:30 2011] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Tue May 24 12:29:30 2011] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Tue May 24 12:32:14 2011] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Tue May 24 12:32:19 2011] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Tue May 24 12:34:44 2011] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Tue May 24 12:34:44 2011] [notice] Server built: Jan 18 2008 00:37:19
+[Tue May 24 12:34:44 2011] [notice] Parent: Created child process 4048
+[Tue May 24 12:34:44 2011] [notice] Child 4048: Child process is running
+[Tue May 24 12:34:44 2011] [notice] Child 4048: Acquired the start mutex.
+[Tue May 24 12:34:44 2011] [notice] Child 4048: Starting 250 worker threads.
+[Tue May 24 12:34:44 2011] [notice] Child 4048: Starting thread to listen on port 81.
+[Tue May 24 17:11:14 2011] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Tue May 24 17:11:14 2011] [notice] Server built: Jan 18 2008 00:37:19
+[Tue May 24 17:11:14 2011] [notice] Parent: Created child process 4380
+[Tue May 24 17:11:15 2011] [notice] Child 4380: Child process is running
+[Tue May 24 17:11:15 2011] [notice] Child 4380: Acquired the start mutex.
+[Tue May 24 17:11:15 2011] [notice] Child 4380: Starting 250 worker threads.
+[Tue May 24 17:11:15 2011] [notice] Child 4380: Starting thread to listen on port 81.
+"C:\Documents" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+[Tue May 24 17:13:31 2011] [error] [client 127.0.0.1] File does not exist: C:/Documents and Settings/carlos.castro/Mis documentos/PHPMYSQLAPACHE/Mowes/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Wed Aug 17 13:42:38 2011] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Aug 17 13:42:38 2011] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Aug 17 13:42:38 2011] [notice] Parent: Created child process 3836
+[Wed Aug 17 13:42:38 2011] [notice] Child 3836: Child process is running
+[Wed Aug 17 13:42:38 2011] [notice] Child 3836: Acquired the start mutex.
+[Wed Aug 17 13:42:38 2011] [notice] Child 3836: Starting 250 worker threads.
+[Wed Aug 17 13:42:38 2011] [notice] Child 3836: Starting thread to listen on port 81.
+[Wed Aug 17 14:05:02 2011] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Aug 17 14:05:02 2011] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Aug 17 14:05:02 2011] [notice] Parent: Created child process 4348
+[Wed Aug 17 14:05:03 2011] [notice] Child 4348: Child process is running
+[Wed Aug 17 14:05:03 2011] [notice] Child 4348: Acquired the start mutex.
+[Wed Aug 17 14:05:03 2011] [notice] Child 4348: Starting 250 worker threads.
+[Wed Aug 17 14:05:03 2011] [notice] Child 4348: Starting thread to listen on port 81.
+[Wed Aug 17 14:17:55 2011] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Aug 17 14:17:55 2011] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Aug 17 14:17:55 2011] [notice] Parent: Created child process 1100
+[Wed Aug 17 14:17:57 2011] [notice] Child 1100: Child process is running
+[Wed Aug 17 14:17:57 2011] [notice] Child 1100: Acquired the start mutex.
+[Wed Aug 17 14:17:57 2011] [notice] Child 1100: Starting 250 worker threads.
+[Wed Aug 17 14:17:57 2011] [notice] Child 1100: Starting thread to listen on port 81.
+[Wed Aug 17 14:39:44 2011] [error] [client 127.0.0.1] File does not exist: F:/PHPMYSQLAPACHE/Mowes/www/favicon.ico, referer: http://localhost:81/start/index.php
+[Wed Aug 17 14:39:44 2011] [error] [client 127.0.0.1] File does not exist: F:/PHPMYSQLAPACHE/Mowes/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Sat Aug 27 13:54:06 2011] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Sat Aug 27 13:54:06 2011] [notice] Server built: Jan 18 2008 00:37:19
+[Sat Aug 27 13:54:06 2011] [notice] Parent: Created child process 7308
+[Sat Aug 27 13:54:07 2011] [notice] Child 7308: Child process is running
+[Sat Aug 27 13:54:07 2011] [notice] Child 7308: Acquired the start mutex.
+[Sat Aug 27 13:54:07 2011] [notice] Child 7308: Starting 250 worker threads.
+[Sat Aug 27 13:54:07 2011] [notice] Child 7308: Starting thread to listen on port 81.
+[Mon Feb 13 17:16:26 2012] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Mon Feb 13 17:16:26 2012] [notice] Server built: Jan 18 2008 00:37:19
+[Mon Feb 13 17:16:26 2012] [notice] Parent: Created child process 4928
+[Mon Feb 13 17:16:27 2012] [notice] Child 4928: Child process is running
+[Mon Feb 13 17:16:27 2012] [notice] Child 4928: Acquired the start mutex.
+[Mon Feb 13 17:16:27 2012] [notice] Child 4928: Starting 250 worker threads.
+[Mon Feb 13 17:16:27 2012] [notice] Child 4928: Starting thread to listen on port 81.
+[Fri Feb 17 19:44:47 2012] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Fri Feb 17 19:44:47 2012] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Feb 17 19:44:47 2012] [notice] Parent: Created child process 3044
+[Fri Feb 17 19:44:49 2012] [notice] Child 3044: Child process is running
+[Fri Feb 17 19:44:49 2012] [notice] Child 3044: Acquired the start mutex.
+[Fri Feb 17 19:44:49 2012] [notice] Child 3044: Starting 250 worker threads.
+[Fri Feb 17 19:44:49 2012] [notice] Child 3044: Starting thread to listen on port 81.
+[Tue Apr 17 19:04:26 2012] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Tue Apr 17 19:04:26 2012] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Apr 17 19:04:26 2012] [notice] Parent: Created child process 596
+[Tue Apr 17 19:04:27 2012] [notice] Child 596: Child process is running
+[Tue Apr 17 19:04:27 2012] [notice] Child 596: Acquired the start mutex.
+[Tue Apr 17 19:04:27 2012] [notice] Child 596: Starting 250 worker threads.
+[Tue Apr 17 19:04:27 2012] [notice] Child 596: Starting thread to listen on port 81.
+[Mon Sep 24 17:29:27 2012] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Mon Sep 24 17:29:27 2012] [notice] Server built: Jan 18 2008 00:37:19
+[Mon Sep 24 17:29:27 2012] [notice] Parent: Created child process 2804
+[Mon Sep 24 17:29:29 2012] [notice] Child 2804: Child process is running
+[Mon Sep 24 17:29:29 2012] [notice] Child 2804: Acquired the start mutex.
+[Mon Sep 24 17:29:29 2012] [notice] Child 2804: Starting 250 worker threads.
+[Mon Sep 24 17:29:30 2012] [notice] Child 2804: Starting thread to listen on port 81.
+[Mon Sep 24 17:35:11 2012] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in G:\\PHPMYSQLAPACHE\\Mowes\\www\\pryClientes\\control\\CtrCliente.php on line 20, referer: http://localhost:81/pryClientes/vista/CLIENTE.html
+[Mon Sep 24 17:35:30 2012] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in G:\\PHPMYSQLAPACHE\\Mowes\\www\\pryClientes\\control\\CtrCliente.php on line 20, referer: http://localhost:81/pryClientes/vista/CLIENTE.html
+[Mon Sep 24 17:35:54 2012] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in G:\\PHPMYSQLAPACHE\\Mowes\\www\\pryClientes\\control\\CtrCliente.php on line 20, referer: http://localhost:81/pryClientes/vista/CLIENTE.html
+[Mon Sep 24 17:37:49 2012] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in G:\\PHPMYSQLAPACHE\\Mowes\\www\\pryClientes\\control\\CtrCliente.php on line 20, referer: http://localhost:81/pryClientes/vista/CLIENTE.html
+[Mon Sep 24 17:40:21 2012] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in G:\\PHPMYSQLAPACHE\\Mowes\\www\\pryClientes\\control\\CtrCliente.php on line 20, referer: http://localhost:81/pryClientes/vista/VISTACLIENTE.PHP
+[Sat Oct 06 15:00:19 2012] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Sat Oct 06 15:00:19 2012] [notice] Server built: Jan 18 2008 00:37:19
+[Sat Oct 06 15:00:19 2012] [notice] Parent: Created child process 6652
+[Thu Nov 22 07:48:40 2012] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Nov 22 07:48:40 2012] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Nov 22 07:48:40 2012] [notice] Parent: Created child process 4952
+[Thu Nov 22 07:48:40 2012] [notice] Child 4952: Child process is running
+[Thu Nov 22 07:48:40 2012] [notice] Child 4952: Acquired the start mutex.
+[Thu Nov 22 07:48:40 2012] [notice] Child 4952: Starting 250 worker threads.
+[Thu Nov 22 07:48:40 2012] [notice] Child 4952: Starting thread to listen on port 81.
+[Sat Mar 16 15:46:14 2013] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Sat Mar 16 15:46:14 2013] [notice] Server built: Jan 18 2008 00:37:19
+[Sat Mar 16 15:46:14 2013] [notice] Parent: Created child process 3000
+[Sat Mar 16 15:46:15 2013] [notice] Child 3000: Child process is running
+[Sat Mar 16 15:46:15 2013] [notice] Child 3000: Acquired the start mutex.
+[Sat Mar 16 15:46:15 2013] [notice] Child 3000: Starting 250 worker threads.
+[Sat Mar 16 15:46:15 2013] [notice] Child 3000: Starting thread to listen on port 81.
+[Fri Apr 19 21:01:15 2013] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Fri Apr 19 21:01:15 2013] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Apr 19 21:01:15 2013] [notice] Parent: Created child process 5096
+[Fri Apr 19 21:01:16 2013] [notice] Child 5096: Child process is running
+[Fri Apr 19 21:01:16 2013] [notice] Child 5096: Acquired the start mutex.
+[Fri Apr 19 21:01:16 2013] [notice] Child 5096: Starting 250 worker threads.
+[Fri Apr 19 21:01:16 2013] [notice] Child 5096: Starting thread to listen on port 81.
+[Fri Apr 19 21:07:02 2013] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Fri Apr 19 21:07:02 2013] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Apr 19 21:07:02 2013] [notice] Parent: Created child process 6428
+[Fri Apr 19 21:07:03 2013] [notice] Child 6428: Child process is running
+[Fri Apr 19 21:07:03 2013] [notice] Child 6428: Acquired the start mutex.
+[Fri Apr 19 21:07:03 2013] [notice] Child 6428: Starting 250 worker threads.
+[Fri Apr 19 21:07:03 2013] [notice] Child 6428: Starting thread to listen on port 81.
+[Mon Apr 22 18:52:58 2013] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Mon Apr 22 18:52:58 2013] [notice] Server built: Jan 18 2008 00:37:19
+[Mon Apr 22 18:52:58 2013] [notice] Parent: Created child process 4256
+[Mon Apr 22 18:52:58 2013] [notice] Child 4256: Child process is running
+[Mon Apr 22 18:52:58 2013] [notice] Child 4256: Acquired the start mutex.
+[Mon Apr 22 18:52:58 2013] [notice] Child 4256: Starting 250 worker threads.
+[Mon Apr 22 18:52:58 2013] [notice] Child 4256: Starting thread to listen on port 81.
+[Mon Apr 22 18:55:19 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Mon Apr 22 18:56:04 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/vista/style.css, referer: http://localhost:81/ProyectoPHP/vista/Menu.php
+[Mon Apr 22 18:56:05 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/reset.css, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:05 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/fonts, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:05 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/fonts, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:05 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:05 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:05 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:05 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:05 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:21 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/vista/style.css, referer: http://localhost:81/ProyectoPHP/vista/Menu.php
+[Mon Apr 22 18:56:21 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/reset.css, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:21 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/fonts, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:21 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/fonts, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:21 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:21 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:21 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:21 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:21 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:46 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/vista/style.css, referer: http://localhost:81/ProyectoPHP/vista/Menu.php
+[Mon Apr 22 18:56:46 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/reset.css, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:46 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/fonts, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:46 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/fonts, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:46 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:46 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:46 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:46 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:46 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:53 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/vista/style.css, referer: http://localhost:81/ProyectoPHP/vista/Menu.php
+[Mon Apr 22 18:56:53 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/reset.css, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:53 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/fonts, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:53 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/fonts, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:53 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:53 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:53 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:53 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:56:53 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:57:19 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/vista/style.css, referer: http://localhost:81/ProyectoPHP/vista/Menu.php
+[Mon Apr 22 18:57:19 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/reset.css, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:57:19 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/fonts, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:57:19 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/fonts, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:57:19 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:57:19 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:57:19 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:57:19 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 18:57:19 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 19:02:12 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/vista/style.css, referer: http://localhost:81/ProyectoPHP/vista/Menu.php
+[Mon Apr 22 19:02:12 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/reset.css, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 19:02:12 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/fonts, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 19:02:12 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/fonts, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 19:02:12 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 19:02:12 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 19:02:12 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 19:02:12 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 19:02:12 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/ProyectoPHP/EstilosJS/images, referer: http://localhost:81/ProyectoPHP/EstilosJS/menuu.css
+[Mon Apr 22 19:10:15 2013] [error] [client 127.0.0.1] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in C:\\PHPMYSQLAPACHE\\Mowes\\www\\pryClientes\\control\\CtrCliente.php on line 20, referer: http://localhost:81/pryClientes/vista/VISTACLIENTE.php
+[Mon Apr 22 19:58:51 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/phpinfo()
+[Mon Apr 22 20:08:33 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Mon Apr 22 20:08:33 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Mon Apr 22 20:14:43 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '{' in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MVC_PHP\\vista\\login.php on line 21, referer: http://localhost:81/MVC_PHP/vista/
+[Mon Apr 22 20:15:57 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '{' in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MVC_PHP\\vista\\login.php on line 21, referer: http://localhost:81/MVC_PHP/vista/
+[Mon Apr 22 20:18:39 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MVC_PHP\\vista\\Menu.php on line 14, referer: http://localhost:81/MVC_PHP/vista/
+[Mon May 13 22:43:29 2013] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Mon May 13 22:43:29 2013] [notice] Server built: Jan 18 2008 00:37:19
+[Mon May 13 22:43:29 2013] [notice] Parent: Created child process 2620
+[Mon May 13 22:43:29 2013] [notice] Child 2620: Child process is running
+[Mon May 13 22:43:29 2013] [notice] Child 2620: Acquired the start mutex.
+[Mon May 13 22:43:29 2013] [notice] Child 2620: Starting 250 worker threads.
+[Mon May 13 22:43:29 2013] [notice] Child 2620: Starting thread to listen on port 81.
+[Mon May 13 22:44:23 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/start/images/mowesportable.gif, referer: http://localhost:81/start/index.php
+[Mon May 13 22:44:23 2013] [error] [client 127.0.0.1] File does not exist: C:/PHPMYSQLAPACHE/Mowes/www/favicon.ico
+[Mon May 13 23:15:05 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_FOR, expecting ',' or ';' in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MAESTRODETALLE\\vista\\vistaMaestroDetalle.php on line 72, referer: http://localhost:81/MAESTRODETALLE/vista/
+[Mon May 13 23:16:00 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MAESTRODETALLE\\vista\\vistaMaestroDetalle.php on line 73, referer: http://localhost:81/MAESTRODETALLE/vista/
+[Mon May 13 23:52:20 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MAESTRODETALLE\\vista\\vistaMaestroDetalle.php on line 78, referer: http://localhost:81/MAESTRODETALLE/vista/vistaMaestroDetalle.php
+[Mon May 13 23:57:48 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MAESTRODETALLE\\vista\\vistaMaestroDetalle.php on line 78, referer: http://localhost:81/MAESTRODETALLE/vista/vistaMaestroDetalle.php
+[Tue May 14 00:04:49 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MAESTRODETALLE\\vista\\vistaMaestroDetalle.php on line 79, referer: http://localhost:81/MAESTRODETALLE/vista/vistaMaestroDetalle.php
+[Tue May 14 00:16:17 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_CATCH in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MAESTRODETALLE\\vista\\vistaMaestroDetalle.php on line 53, referer: http://localhost:81/MAESTRODETALLE/vista/vistaMaestroDetalle.php
+[Tue May 14 00:16:47 2013] [error] [client 127.0.0.1] PHP Fatal error:  Cannot break/continue 1 level in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MAESTRODETALLE\\vista\\vistaMaestroDetalle.php on line 52, referer: http://localhost:81/MAESTRODETALLE/vista/vistaMaestroDetalle.php
+[Tue May 14 00:22:05 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_ECHO, expecting T_CASE or T_DEFAULT or '}' in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MAESTRODETALLE\\vista\\vistaMaestroDetalle.php on line 46, referer: http://localhost:81/MAESTRODETALLE/vista/vistaMaestroDetalle.php
+[Tue May 14 01:23:00 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MAESTRODETALLE\\vista\\vistaMaestroDetalle.php on line 93, referer: http://localhost:81/MAESTRODETALLE/vista/vistaMaestroDetalle.php
+[Tue May 14 01:24:44 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '.' in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MAESTRODETALLE\\vista\\vistaMaestroDetalle.php on line 95, referer: http://localhost:81/MAESTRODETALLE/vista/vistaMaestroDetalle.php
+[Tue May 14 01:25:10 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_DNUMBER, expecting ',' or ';' in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MAESTRODETALLE\\vista\\vistaMaestroDetalle.php on line 95, referer: http://localhost:81/MAESTRODETALLE/vista/vistaMaestroDetalle.php
+[Tue May 14 01:25:38 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected $end in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MAESTRODETALLE\\vista\\vistaMaestroDetalle.php on line 110, referer: http://localhost:81/MAESTRODETALLE/vista/vistaMaestroDetalle.php
+[Tue May 14 01:32:01 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE in C:\\PHPMYSQLAPACHE\\Mowes\\www\\MAESTRODETALLE\\vista\\vistaMaestroDetalle.php on line 60, referer: http://localhost:81/MAESTRODETALLE/vista/vistaMaestroDetalle.php
+[Thu Sep 19 15:12:45 2013] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Sep 19 15:12:45 2013] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Sep 19 15:12:45 2013] [notice] Parent: Created child process 5848
+[Thu Sep 19 15:12:46 2013] [notice] Child 5848: Child process is running
+[Thu Sep 19 15:12:46 2013] [notice] Child 5848: Acquired the start mutex.
+[Thu Sep 19 15:12:46 2013] [notice] Child 5848: Starting 250 worker threads.
+[Thu Sep 19 15:12:46 2013] [notice] Child 5848: Starting thread to listen on port 81.
+[Thu Sep 19 15:18:08 2013] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Thu Sep 19 15:18:08 2013] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Sep 19 15:18:08 2013] [notice] Parent: Created child process 3420
+[Thu Sep 19 15:18:08 2013] [notice] Child 3420: Child process is running
+[Thu Sep 19 15:18:08 2013] [notice] Child 3420: Acquired the start mutex.
+[Thu Sep 19 15:18:08 2013] [notice] Child 3420: Starting 250 worker threads.
+[Thu Sep 19 15:18:08 2013] [notice] Child 3420: Starting thread to listen on port 81.
+[Tue Jul 23 06:58:33 2019] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Tue Jul 23 06:58:33 2019] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Jul 23 06:58:33 2019] [notice] Parent: Created child process 6308
+[Tue Jul 23 06:58:36 2019] [notice] Child 6308: Child process is running
+[Tue Jul 23 06:58:36 2019] [notice] Child 6308: Acquired the start mutex.
+[Tue Jul 23 06:58:36 2019] [notice] Child 6308: Starting 250 worker threads.
+[Tue Jul 23 06:58:36 2019] [notice] Child 6308: Starting thread to listen on port 81.
+[Wed Oct 02 20:01:41 2019] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Oct 02 20:01:41 2019] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Oct 02 20:01:41 2019] [notice] Parent: Created child process 2600
+[Wed Oct 02 20:01:41 2019] [notice] Child 2600: Child process is running
+[Wed Oct 02 20:01:41 2019] [notice] Child 2600: Acquired the start mutex.
+[Wed Oct 02 20:01:41 2019] [notice] Child 2600: Starting 250 worker threads.
+[Wed Oct 02 20:01:41 2019] [notice] Child 2600: Starting thread to listen on port 81.
+[Wed Oct 16 20:03:02 2019] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Oct 16 20:03:02 2019] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Oct 16 20:03:02 2019] [notice] Parent: Created child process 4008
+[Wed Oct 16 20:03:03 2019] [notice] Child 4008: Child process is running
+[Wed Oct 16 20:03:03 2019] [notice] Child 4008: Acquired the start mutex.
+[Wed Oct 16 20:03:03 2019] [notice] Child 4008: Starting 250 worker threads.
+[Wed Oct 16 20:03:03 2019] [notice] Child 4008: Starting thread to listen on port 81.
+[Wed Oct 30 08:40:36 2019] [notice] Parent: child process exited with status 1 -- Restarting.
+[Wed Nov 06 19:06:35 2019] [warn] pid file E:/Estudio ITM/java/Mowes/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 06 19:06:36 2019] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Wed Nov 06 19:06:36 2019] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Nov 06 19:06:36 2019] [notice] Parent: Created child process 5896
+[Wed Nov 06 19:06:36 2019] [notice] Child 5896: Child process is running
+[Wed Nov 06 19:06:36 2019] [notice] Child 5896: Acquired the start mutex.
+[Wed Nov 06 19:06:36 2019] [notice] Child 5896: Starting 250 worker threads.
+[Wed Nov 06 19:06:36 2019] [notice] Child 5896: Starting thread to listen on port 81.
+[Mon Jan 20 19:10:48 2020] [warn] pid file C:/Users/Andrei Florez V/Documents/PROGRAMACION/JAVA/Mowes/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 20 19:10:49 2020] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Mon Jan 20 19:10:49 2020] [notice] Server built: Jan 18 2008 00:37:19
+[Mon Jan 20 19:10:49 2020] [notice] Parent: Created child process 5768
+[Mon Jan 20 19:10:49 2020] [notice] Child 5768: Child process is running
+[Mon Jan 20 19:10:49 2020] [notice] Child 5768: Acquired the start mutex.
+[Mon Jan 20 19:10:49 2020] [notice] Child 5768: Starting 250 worker threads.
+[Mon Jan 20 19:10:49 2020] [notice] Child 5768: Starting thread to listen on port 81.
+[Mon Jan 20 20:22:09 2020] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Mon Jan 20 20:22:09 2020] [notice] Server built: Jan 18 2008 00:37:19
+[Mon Jan 20 20:22:09 2020] [notice] Parent: Created child process 3272
+Apache server shutdown initiated...
+Child 3272: Child process is running
+[Mon Jan 20 20:22:09 2020] [notice] Child 3272: Acquired the start mutex.
+[Mon Jan 20 20:22:09 2020] [notice] Child 3272: Starting 250 worker threads.
+[Mon Jan 20 20:22:09 2020] [notice] Child 3272: Starting thread to listen on port 81.
+[Mon Jan 20 20:23:41 2020] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jan 20 20:23:41 2020] [notice] Child 3272: Exit event signaled. Child process is ending.
+[Mon Jan 20 20:23:42 2020] [notice] Child 3272: Released the start mutex
+[Mon Jan 20 20:23:43 2020] [notice] Child 3272: All worker threads have exited.
+Error in my_thread_global_end(): 2 threads didn't exit
+[Mon Jan 20 20:23:48 2020] [notice] Child 3272: Child process is exiting
+[Mon Jan 20 20:24:12 2020] [warn] pid file C:/Users/Andrei Florez V/Documents/PROGRAMACION/JAVA/Mowes/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 20 20:24:12 2020] [notice] Apache/2.2.8 (Win32) PHP/5.2.5 configured -- resuming normal operations
+[Mon Jan 20 20:24:12 2020] [notice] Server built: Jan 18 2008 00:37:19
+[Mon Jan 20 20:24:12 2020] [notice] Parent: Created child process 5452
+[Mon Jan 20 20:24:12 2020] [notice] Child 5452: Child process is running
+[Mon Jan 20 20:24:12 2020] [notice] Child 5452: Acquired the start mutex.
+[Mon Jan 20 20:24:12 2020] [notice] Child 5452: Starting 250 worker threads.
+[Mon Jan 20 20:24:12 2020] [notice] Child 5452: Starting thread to listen on port 81.

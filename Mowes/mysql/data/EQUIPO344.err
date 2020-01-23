@@ -1,0 +1,41 @@
+090317 14:40:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090317 14:40:15  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 50325.
+InnoDB: Doing recovery: scanned up to log sequence number 0 50325
+090317 14:40:15  InnoDB: Started; log sequence number 0 50325
+090317 14:40:18 [Note] E:\mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090317 14:41:34 [Note] E:\mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+090317 14:41:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090317 14:41:44  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 50325.
+InnoDB: Doing recovery: scanned up to log sequence number 0 50325
+090317 14:41:44  InnoDB: Started; log sequence number 0 50325
+090317 14:41:45 [Note] E:\mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090317 14:42:05 [Note] E:\mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+090317 14:42:05  InnoDB: Starting shutdown...
+090317 14:54:31  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090317 14:54:31  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 50325.
+InnoDB: Doing recovery: scanned up to log sequence number 0 50325
+090317 14:54:31  InnoDB: Started; log sequence number 0 50325
+090317 14:54:33 [Note] E:\Appserv\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090317 14:55:29 [Note] E:\Appserv\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+090317 14:55:29  InnoDB: Starting shutdown...

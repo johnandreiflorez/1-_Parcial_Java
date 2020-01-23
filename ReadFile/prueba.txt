@@ -1,0 +1,50 @@
++Sabor Puro,100
+-America del Norte,Mexico,Acapulco,Buena,9
++Sabor Puro,100
+-America del Norte,Mexico,Acapulco,Buena,9
++Sabor Puro,100
+-America del Norte,Mexico,Acapulco,Buena,9
++Sabor Puro,100
+-America del Norte,Mexico,Acapulco,Buena,9
++Sabor Puro,100
+-America del Norte,Mexico,Acapulco,Buena,9
++Robusta,75
+-Europa,España,Madrid,excelente,12
++Robusta,75
+-Europa,España,Madrid,excelente,12
++Robusta,75
+-Europa,España,Madrid,excelente,12
++Robusta,75
+-Europa,España,Madrid,excelente,12
++Robusta,75
+-Europa,España,Madrid,excelente,12
++Sabor Puro,100
+-America del Norte,Mexico,Guadalajara,Buena,9
++Robusta,75
+-Europa,España,Sevilla,excelente,12
++Robusta,75
+-Europa,España,Sevilla,excelente,12
++Suave,50
+-Latinoamerica,Colombia,Medellin,Media,19
++Suave,50
+-Latinoamerica,Colombia,Medellin,Media,19
++Suave,50
+-Latinoamerica,Colombia,Medellin,Media,19
++Suave,50
+-Latinoamerica,Colombia,Medellin,Media,19
++Suave,50
+-Latinoamerica,Colombia,Medellin,Media,19
++Suave,50
+-Latinoamerica,Colombia,Medellin,Media,19
++Suave,50
+-Latinoamerica,Colombia,Medellin,Media,19
++Suave,50
+-Latinoamerica,Colombia,Medellin,Media,19
++Suave,50
+-Latinoamerica,Colombia,Medellin,Media,19
++Robusta,75
+-Europa,España,Barcelona,excelente,12
++Sabor Puro,100
+-America del Norte,Mexico,Guadalupe,Buena,9
++Sabor Puro,100
+-America del Norte,Mexico,Guadalupe,Buena,9

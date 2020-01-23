@@ -1,0 +1,981 @@
+090326  9:22:16  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090326  9:22:16  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 50325.
+InnoDB: Doing recovery: scanned up to log sequence number 0 50325
+090326  9:22:16  InnoDB: Started; log sequence number 0 50325
+090326  9:22:17 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\leveto\Lo que es para PHP\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090326 12:46:07 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\leveto\Lo que es para PHP\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+090326 12:47:23  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090326 12:47:23  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 99665.
+InnoDB: Doing recovery: scanned up to log sequence number 0 99665
+090326 12:47:24  InnoDB: Started; log sequence number 0 99665
+090326 12:47:24 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\leveto\Lo que es para PHP\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090326 12:48:29 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\leveto\Lo que es para PHP\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+090326 12:54:34  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090326 12:54:35  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 99711.
+InnoDB: Doing recovery: scanned up to log sequence number 0 99711
+090326 12:54:36  InnoDB: Started; log sequence number 0 99711
+090326 12:54:37 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\leveto\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090326 12:58:02 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\leveto\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+090326 12:58:02  InnoDB: Starting shutdown...
+090401 14:33:00  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090401 14:33:01  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 99721.
+InnoDB: Doing recovery: scanned up to log sequence number 0 99721
+090401 14:33:04  InnoDB: Started; log sequence number 0 99721
+090401 14:33:12 [Note] I:\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090504 11:40:25  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090504 11:40:25  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 100466.
+InnoDB: Doing recovery: scanned up to log sequence number 0 100466
+090504 11:40:25  InnoDB: Started; log sequence number 0 100466
+090504 11:40:26 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090504 11:46:50 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+090504 11:46:50  InnoDB: Starting shutdown...
+090513  9:48:32  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090513  9:48:32  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 100476.
+InnoDB: Doing recovery: scanned up to log sequence number 0 100476
+090513  9:48:32  InnoDB: Started; log sequence number 0 100476
+090513  9:48:33 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090513  9:49:47 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+090513  9:49:51  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090513  9:49:51  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 100476.
+InnoDB: Doing recovery: scanned up to log sequence number 0 100476
+090513  9:49:51  InnoDB: Started; log sequence number 0 100476
+090513  9:49:51 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090513  9:49:56 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+090513  9:49:56  InnoDB: Starting shutdown...
+090513  9:50:23  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+090513  9:50:23  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 100476.
+InnoDB: Doing recovery: scanned up to log sequence number 0 100476
+090513  9:50:23  InnoDB: Started; log sequence number 0 100476
+090513  9:50:23 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+090513  9:50:56 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+090513  9:50:56  InnoDB: Starting shutdown...
+091103 10:41:32  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+091103 10:41:32  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 100476.
+InnoDB: Doing recovery: scanned up to log sequence number 0 100476
+091103 10:41:33  InnoDB: Started; log sequence number 0 100476
+091103 10:41:34 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+091103 10:57:16 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+091103 11:02:22  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+091103 11:02:22  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 100486.
+InnoDB: Doing recovery: scanned up to log sequence number 0 100486
+091103 11:02:23  InnoDB: Started; log sequence number 0 100486
+091103 11:02:23 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+091103 11:04:12 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+091103 11:04:12  InnoDB: Starting shutdown...
+091105 16:26:14  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+091105 16:26:14  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 100496.
+InnoDB: Doing recovery: scanned up to log sequence number 0 100496
+091105 16:26:15  InnoDB: Started; log sequence number 0 100496
+091105 16:26:16 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+091105 18:28:50 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+100419 16:38:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100419 16:38:05  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 100506.
+InnoDB: Doing recovery: scanned up to log sequence number 0 100506
+100419 16:38:06  InnoDB: Started; log sequence number 0 100506
+100419 16:38:12 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100420 17:34:21 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+100421 14:54:05  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100421 14:54:07  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 112691.
+InnoDB: Doing recovery: scanned up to log sequence number 0 112691
+100421 14:54:08  InnoDB: Started; log sequence number 0 112691
+100421 14:54:11 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100421 14:56:02 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+100422 12:20:40  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100422 12:20:40  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 113131.
+InnoDB: Doing recovery: scanned up to log sequence number 0 113131
+100422 12:20:41  InnoDB: Started; log sequence number 0 113131
+Can't start server: Bind on TCP/IP port: Invalid argument
+100422 12:20:41 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+100422 12:20:41 [ERROR] Aborting
+
+100422 12:20:41  InnoDB: Starting shutdown...
+100422 12:20:43  InnoDB: Shutdown completed; log sequence number 0 113131
+100422 12:20:43 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Shutdown complete
+
+100422 12:27:47  InnoDB: Started; log sequence number 0 113131
+100422 12:27:47 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100422 12:32:06 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+100422 12:32:06  InnoDB: Starting shutdown...
+100422 13:45:39  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100422 13:45:39  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 114109.
+InnoDB: Doing recovery: scanned up to log sequence number 0 114109
+100422 13:45:39  InnoDB: Started; log sequence number 0 114109
+100422 13:45:39 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100422 14:07:15 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+100423 17:05:36  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100423 17:05:37  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 114155.
+InnoDB: Doing recovery: scanned up to log sequence number 0 114155
+100423 17:05:37  InnoDB: Started; log sequence number 0 114155
+100423 17:05:38 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100423 17:10:47 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+100603 17:16:26  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+100603 17:16:26  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 114607.
+InnoDB: Doing recovery: scanned up to log sequence number 0 114607
+100603 17:16:27  InnoDB: Started; log sequence number 0 114607
+100603 17:16:39 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/enlace from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/enlace from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfil from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfil from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfilmenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfilmenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala_horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala_horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/submenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/submenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/usuario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/usuario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/enlace from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/enlace from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfil from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfil from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfilmenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfilmenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala_horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala_horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/submenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/submenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/usuario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/usuario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/enlace from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/enlace from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfil from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfil from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfilmenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfilmenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala_horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala_horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/submenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/submenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/usuario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/usuario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/enlace from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/enlace from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfil from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfil from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfilmenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/perfilmenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala_horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/sala_horario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/submenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/submenu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/usuario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:01100603 17:17:01 [ERROR] Cannot find table labsonido/usuario from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:44100603 17:17:44 [ERROR] Cannot find table labsonido/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:44100603 17:17:44 [ERROR] Cannot find table labsonido/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:44100603 17:17:44 [ERROR] Cannot find table labsonido/enlace from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:17:44100603 17:17:44 [ERROR] Cannot find table labsonido/enlace from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+100603 17:39:01 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+100603 17:39:01  InnoDB: Starting shutdown...
+101027 15:10:08  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101027 15:10:08  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 132549.
+InnoDB: Doing recovery: scanned up to log sequence number 0 132549
+101027 15:10:08  InnoDB: Started; log sequence number 0 132549
+101027 15:10:10 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+101027 15:26:10 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+101028 19:43:28  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+101028 19:43:28  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 132559.
+InnoDB: Doing recovery: scanned up to log sequence number 0 132559
+101028 19:43:29  InnoDB: Started; log sequence number 0 132559
+101028 19:43:29 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+101028 19:45:26 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+110225 17:02:31  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110225 17:02:33  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 132569.
+InnoDB: Doing recovery: scanned up to log sequence number 0 132569
+110225 17:02:35  InnoDB: Started; log sequence number 0 132569
+110225 17:02:51 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110225 17:02:54 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+110225 17:03:45  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110225 17:03:46  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 132569.
+InnoDB: Doing recovery: scanned up to log sequence number 0 132569
+110225 17:03:46  InnoDB: Started; log sequence number 0 132569
+110225 17:03:46 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110225 17:04:07 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+110225 17:04:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110225 17:04:50  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 132569.
+InnoDB: Doing recovery: scanned up to log sequence number 0 132569
+110225 17:04:51  InnoDB: Started; log sequence number 0 132569
+110225 17:04:51 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110225 17:05:41 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+110225 17:05:41  InnoDB: Starting shutdown...
+110516 17:44:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110516 17:44:37  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 132569.
+InnoDB: Doing recovery: scanned up to log sequence number 0 132569
+110516 17:44:37  InnoDB: Started; log sequence number 0 132569
+110516 17:44:40 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110516 17:46:57 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+110516 17:46:57  InnoDB: Starting shutdown...
+110524 12:29:01  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110524 12:29:01  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 132569.
+InnoDB: Doing recovery: scanned up to log sequence number 0 132569
+110524 12:29:02  InnoDB: Started; log sequence number 0 132569
+110524 12:29:03 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110524 12:33:19 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+110524 12:33:19  InnoDB: Starting shutdown...
+110524 12:34:44  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110524 12:34:44  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 132579.
+InnoDB: Doing recovery: scanned up to log sequence number 0 132579
+110524 12:34:44  InnoDB: Started; log sequence number 0 132579
+110524 12:34:44 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110524 12:41:15 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+110524 17:11:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110524 17:11:15  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 132589.
+InnoDB: Doing recovery: scanned up to log sequence number 0 132589
+110524 17:11:15  InnoDB: Started; log sequence number 0 132589
+110524 17:11:16 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110524 17:20:42 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+110817 13:42:35  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+110817 13:42:36  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 132599.
+InnoDB: Doing recovery: scanned up to log sequence number 0 132599
+110817 13:42:37  InnoDB: Started; log sequence number 0 132599
+110817 13:42:38 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+110817 13:46:07 [Note] C:\Documents and Settings\carlos.castro\Mis documentos\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+
+120213 17:16:20  InnoDB: Started; log sequence number 0 132599
+120213 17:16:23 [Note] J:\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+120213 17:16:36 [Note] J:\PHPMYSQLAPACHE\Mowes\mysql\bin\mysqld-nt.exe: Normal shutdown
+

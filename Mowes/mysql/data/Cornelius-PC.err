@@ -1,0 +1,40 @@
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+080123 18:56:30  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+080123 18:56:30  InnoDB: Error: Write to file .\ibdata1 failed at offset 0 0.
+InnoDB: 1048576 bytes should have been written, only 0 were written.
+InnoDB: Operating system error number 112.
+InnoDB: Check that your OS and file system support files of this size.
+InnoDB: Check also that the disk is not full or a disk quota exceeded.
+InnoDB: Error number 112 means 'Unknown error'.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.0/en/operating-system-error-codes.html
+InnoDB: Error in creating .\ibdata1: probably out of disk space
+InnoDB: Could not open or create data files.
+InnoDB: If you tried to add new data files, and it failed here,
+InnoDB: you should now edit innodb_data_file_path in my.cnf back
+InnoDB: to what it was, and remove the new ibdata files InnoDB created
+InnoDB: in this failed attempt. InnoDB only wrote those files full of
+InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+InnoDB: remove old data files which contain your precious data!
+080123 18:56:30 [ERROR] Default storage engine (InnoDB) is not available
+080123 18:56:30 [ERROR] Aborting
+
+080123 18:56:30 [Note] mysqld-nt.exe: Shutdown complete
+
+InnoDB: Error: auto-extending data file .\ibdata1 is of a different size
+InnoDB: 0 pages (rounded down to MB) than specified in the .cnf file:
+InnoDB: initial 640 pages, max 0 (relevant if non-zero) pages!
+InnoDB: Could not open or create data files.
+InnoDB: If you tried to add new data files, and it failed here,
+InnoDB: you should now edit innodb_data_file_path in my.cnf back
+InnoDB: to what it was, and remove the new ibdata files InnoDB created
+InnoDB: in this failed attempt. InnoDB only wrote those files full of
+InnoDB: zeros, but did not yet use them in any way. But be careful: do not
+InnoDB: remove old data files which contain your precious data!
+080123 18:56:41 [ERROR] Default storage engine (InnoDB) is not available
+080123 18:56:41 [ERROR] Aborting
+
+080123 18:56:41 [Note] E:\wos_1\c\mysql\bin\mysqld-nt.exe: Shutdown complete
+

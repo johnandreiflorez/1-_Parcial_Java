@@ -1,0 +1,217 @@
+body {
+	background:url("../Imagenes/fondoGris.jpg");
+}
+
+.resaltado{
+  color:#2E2EFE;
+}
+
+
+.recuadro{
+  background-color:#ffffcc;
+  font-family:verdana;
+  font-size:14px;
+
+  border-top-width:1px;
+  border-right-width:3px;
+  border-bottom-width:3px;
+  border-left-width:1px;
+
+  border-top-style:dotted;
+  border-right-style:solid;
+  border-bottom-style:solid;
+  border-left-style:dotted;
+
+  border-top-color:#ffaa00;
+  border-right-color:#ff0000;
+  border-bottom-color:#ff0000;
+  border-left-color:#ffaa00;
+}
+
+
+
+/*#header{
+	width:800px;
+	margin:30px auto;
+	height:40px;
+	display:block;
+	background:#333;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+}*/
+
+ul#mainmenu, ul#mainmenu ul{list-style:none;padding:5px}
+
+ul#mainmenu li{
+	display:block;
+	float:left;
+	margin:0;
+	padding:5px 20px 15px 20px;
+	position: relative;
+	line-height:18px;
+}
+
+ul#mainmenu li a{
+	color:#FAFAFA;
+	text-decoration:none;
+}
+
+ul#mainmenu li a:hover{
+	color:#fff;
+}
+
+/*sub level nav*/
+
+ul #mainmenu li ul{
+	background:#E1E11E;
+	border-bottom:solid 2px #C1C1C1;
+	border-top:solid 2px #D1D1D1;
+	border-right: solid 1px #D1D1D1;
+	margin:12px 0 0 0;
+	padding:0 10px 0;
+	width:130px;
+	position:absolute;
+}
+
+ul#mainmenu li ul li{
+	border-bottom:1px solid #C1C1C1;
+	display:block; 
+	float:none;
+	height:14px;
+	padding:10px 0;
+	text-align:center;
+	margin:0;
+	width:130px;
+	background:none;
+}
+
+ul#mainmenu li ul li.last{border-bottom:none}
+ul#mainmenu li ul li a{
+	color:#313131;
+}
+
+ul#mainmenu li ul li a:hover{
+	color:0;
+}
+
+ul#mainmenu li ul li:last-child:not(li.arrow){
+	border:0;
+}
+
+
+
+
+#menu {
+  font-family: Arial;
+  margin:5px;
+}
+
+#menu p {
+  margin:0px;
+  padding:0px;
+}
+
+#menu a {
+  display: block;
+  padding: 3px;
+  width: 160px;
+  background-color: #f7f8e8;
+  border-bottom: 1px solid #eee;
+  text-align:center;
+}
+
+#menu a:link, #menu a:visited {
+  color: #f00;
+  text-decoration: none;
+}
+
+#menu a:hover {
+  background-color: #369;
+  color: #fff;
+}
+
+#detalles {
+  background-color:#ffc;
+  text-align:left;
+  font-family:verdana;
+  border-width:0;
+  padding:5px;
+  border: 1px dotted #fa0;
+  margin:5px;
+}
+
+
+
+/* le digo q a las etiquetas input de type text y ps adentro de las llaves el formato q quiero q tengan esos input osea ps los cajoncitos
+ se usa type text para q no coja los input submit 
+*/
+
+input[type='text']
+{
+    padding: 4px; /* esto es el espacio q hay entre los border y los elementos de adentro, osea el texto en este caso*/
+    border: 1px solid #000; /* el borde se da en pixeles luego en estilo y por ultimo el color en hexadecimal*/
+}
+input[type='text']:focus /* aqui uso el mismo estilo pero le agrego :focus para q cambie cualdo se seleccione */
+{
+    border: 1px solid #09F;
+}
+
+
+ .boton
+ {
+     background: #000000;
+     font-family:Verdana;
+     font-size:12px;
+     color:white;
+	 width:80px;
+/* ya sabemos lo del borde y el espacio pa q no queden las cosas pegadas al borde*/
+     padding: 4px;
+     border: 1px solid #000;
+     
+     /* estas tes son para darle un borde redondeado cada linea es para un explorador diferente osea Chrome Firefox y Internet Eplorer*/
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    -border-radius:3px;
+  }
+  
+ /*.boton:hover /* el :hover es para cuando la clase boton y uno pase sobre el boton se active este estilo
+{
+    background:#F7FE2E;
+}*/
+
+table
+{
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -border-radius:5px;
+}
+
+tr,th,td
+{
+    border:0px solid #000;
+    padding: 3px;
+}
+
+/* creo clase para las tablas q quiera con lineas internas*/
+
+.tablasconlineas  td 
+{
+    border-bottom: 1px solid #000;
+    border-left: 1px solid #000;
+}
+
+.borde
+{
+border-top: black 1px solid;
+border-bottom: black 1px solid;
+border-left: black 1px solid;
+border-right: black 1px solid;
+}
+
+.div
+{
+ -webkit-border-radius:7px;
+-moz-border-radius:7px;
+-border-radius:7px;
+}

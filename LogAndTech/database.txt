@@ -1,0 +1,169 @@
+Product name: CPU
+Unitary Weight:1000
+Max weight upon the box:7500
+Price:60
+
+Product name: CPU
+Unitary Weight:1000
+Max weight upon the box:7500
+Price:60
+
+Product name: mouse
+Unitary Weight:400
+Max weight upon the box:5000
+Price:25
+
+Product name: mouse
+Unitary Weight:400
+Max weight upon the box:5000
+Price:25
+
+Product name: L table
+Unitary Weight:2000
+Max weight upon the box:12000
+Price:50
+
+Pila
+
+Product name: mouse
+Unitary Weight:400
+Max weight upon the box:5000
+Price:25
+
+Product name: mouse
+Unitary Weight:400
+Max weight upon the box:5000
+Price:25
+
+Product name: mouse
+Unitary Weight:400
+Max weight upon the box:5000
+Price:2500000
+
+
+Product name: mouse
+Unitary Weight:400
+Max weight upon the box:5000
+Price:25
+
+Product name: mouse
+Unitary Weight:400
+Max weight upon the box:5000
+Price:25
+
+Product name: mouse
+Unitary Weight:5000
+Max weight upon the box:5000
+Price:25
+
+Pila
+
+Product name: mouse
+Unitary Weight:400
+Max weight upon the box:5000
+Price:25
+
+Product name: mouse
+Unitary Weight:400
+Max weight upon the box:5000
+Price:25
+
+Product name: S table
+Unitary Weight:1500
+Max weight upon the box:12000
+Price:100
+
+Product name: S table
+Unitary Weight:1500
+Max weight upon the box:12000
+Price:100
+
+Product name: L table
+Unitary Weight:2000
+Max weight upon the box:12000
+Price:50
+
+Pila
+
+Product name: CPU
+Unitary Weight:1000
+Max weight upon the box:7500
+Price:60
+
+Product name: L table
+Unitary Weight:2000
+Max weight upon the box:12000
+Price:50
+
+Product name: L table
+Unitary Weight:2000
+Max weight upon the box:12000
+Price:50
+
+Product name: L table
+Unitary Weight:2000
+Max weight upon the box:12000
+Price:50
+
+Product name: L table
+Unitary Weight:2000
+Max weight upon the box:12000
+Price:50
+
+Pila
+
+Product name: CPU
+Unitary Weight:1000
+Max weight upon the box:7500
+Price:60
+
+Product name: CPU
+Unitary Weight:1000
+Max weight upon the box:7500
+Price:60
+
+Product name: mouse
+Unitary Weight:400
+Max weight upon the box:5000
+Price:25
+
+Product name: mouse
+Unitary Weight:400
+Max weight upon the box:5000
+Price:25
+
+Product name: L table
+Unitary Weight:2000
+Max weight upon the box:12000
+Price:50
+
+Pila
+
+Product name: L table
+Unitary Weight:2000
+Max weight upon the box:12000
+Price:50
+
+Product name: L table
+Unitary Weight:2000
+Max weight upon the box:12000
+Price:50
+
+Product name: L table
+Unitary Weight:2000
+Max weight upon the box:12000
+Price:50
+
+Product name: mouse
+Unitary Weight:400
+Max weight upon the box:5000
+Price:25
+
+Product name: CPU
+Unitary Weight:1000
+Max weight upon the box:7500
+Price:60
+
+Pila
+
+end

@@ -1,0 +1,52 @@
++Sabor Puro5,100
+-America del Norte,Mexico,Acapulco,Buena,1.09
++Sabor Puro4,100
+-America del Norte,Mexico,Acapulco,Buena,1.09
++Sabor Puro3,100
+-America del Norte,Mexico,Acapulco,Buena,1.09
++Sabor Puro2,100
+-America del Norte,Mexico,Acapulco,Buena,1.09
++Sabor Puro1,100
+-America del Norte,Mexico,Acapulco,Buena,1.09
++Mocca,80
+-America del Norte,Mexico,Acapulco,Buena,1.09
++Robusta,10
+-Europa,España,Madrid,excelente,1.50
++Robusta,10
+-Europa,España,Madrid,excelente,1.50
++Robusta3,10
+-Europa,España,Madrid,excelente,1.50
++Robusta2,10
+-Europa,España,Madrid,excelente,1.50
++Robusta1,10
+-Europa,España,Madrid,excelente,1.50
++Suave5,50
+-Latinoamerica,Colombia,Medellin,Media,1.19
++Suave4,50
+-Latinoamerica,Colombia,Medellin,Media,1.19
++Robusta3,10
+-Europa,España,Sevilla,excelente,1.50
++Robusta2,10
+-Europa,España,Sevilla,excelente,1.50
++Sabor Puro1,100
+-America del Norte,Mexico,Guadalajara,Buena,1.09
++Suave5,50
+-Latinoamerica,Colombia,Medellin,Media,1.19
++Suave4,50
+-Latinoamerica,Colombia,Medellin,Media,1.19
++Suave3,50
+-Latinoamerica,Colombia,Medellin,Media,1.19
++Suave2,50
+-Latinoamerica,Colombia,Medellin,Media,1.19
++Suave1,50
+-Latinoamerica,Colombia,Medellin,Media,1.19
++Sabor Puro5,100
+-America del Norte,Mexico,Guadalupe,Buena,1.09
++Suave4,100
+-Latinoamerica,Chile,asdfas,Buena,1.09
++Robusta3,10
+-Europa,España,Barcelona,excelente,1.50
++Suave2,50
+-Latinoamerica,Colombia,Medellin,Media,1.19
++Suave1,50
+-Latinoamerica,Colombia,Medellin,Media,1.19
