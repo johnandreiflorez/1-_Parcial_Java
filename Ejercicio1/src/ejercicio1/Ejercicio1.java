@@ -22,13 +22,10 @@ public class Ejercicio1 {
         boolean sw = true;
         ValidacionGeneral objGeneral = new ValidacionGeneral();
         Viaje objViaje = new Viaje();
-        do{
             objViaje.setDistancia(objGeneral.esNumeroEntero("Cual es la distancia a recorre: "));
             objViaje.setEstancia(objGeneral.esNumeroEntero("Cuantos dias se quedara en el pais: "));
-        }while(sw);
         Cotizacion objCotizacion = new Cotizacion();
         objCotizacion.generarCosto(objViaje);
-        
     }
     
 }
