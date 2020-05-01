@@ -42,7 +42,6 @@ public class ActivitysFrm extends javax.swing.JInternalFrame {
         jdcEndDate = new com.toedter.calendar.JDateChooser();
         btnConsult = new javax.swing.JButton();
 
-        setClosable(true);
         setIconifiable(true);
         setMaximizable(true);
         setResizable(true);

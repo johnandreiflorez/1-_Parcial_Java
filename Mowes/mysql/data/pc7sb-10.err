@@ -1,9 +1,0 @@
-190723  6:58:30  InnoDB: Database was not shut down normally!
-InnoDB: Starting crash recovery.
-InnoDB: Reading tablespace information from the .ibd files...
-InnoDB: Restoring possible half-written data pages from the doublewrite
-InnoDB: buffer...
-190723  6:58:30  InnoDB: Starting log scan based on checkpoint at
-InnoDB: log sequence number 0 359396.
-InnoDB: Doing recovery: scanned up to log sequence number 0 359396
-190723  6:58:33  InnoDB: Started; log sequence number 0 359396

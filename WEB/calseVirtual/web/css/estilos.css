@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20/03/2020, 08:46:45 PM
+    Author     : Andrei Florez V
+*/
+
+h1,h2{
+    color:aqua;
+    text-align: center;
+}
+/*p a{
+    color: brown;
+    text-align: center;
+    font-size: 50px;
+}*/
+.centrar{
+    text-align: center;
+}
+a[href="http://www.google.com"]{
+    font-size: 100px;
+    whidth: 200px;
+    text-align: center;
+    color: chocolate;
+}

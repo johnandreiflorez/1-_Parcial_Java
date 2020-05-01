@@ -1,0 +1,81 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13/04/2020, 09:51:50 PM
+    Author     : Andrei Florez V
+*/
+body{
+    display: block;
+}
+/*  HEADER */
+
+.header {
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: #fff;
+    z-index: 2;
+    box-sizing: border-box;
+    padding: 10px 30px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .3);
+}
+
+.header .logo {
+    width: 150px;
+    height: auto;
+    padding-right: 30px;
+    border-right: 2px solid #737576;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.header .logo img {
+    width: 100%;
+}
+
+.header .title {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 10px;
+} 
+
+.header .title h2 {
+    color: #052D6F;
+    font-size: 24px;
+    font-weight: lighter;
+}
+
+.header .title h2 span {
+    font-size: 24px;
+    font-weight: bold;
+}
+.content{
+    background-image: url(../Media/background.jpg);
+    height:100vh ;
+    display: block;
+}
+.info{
+    align-items: center;
+}
+.botton{
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 1.8rem;
+    padding: 1rem 3rem;
+    margin-top: 3rem;
+    display: inline-block;
+    text-align: center;
+    background-color: black;
+    border-radius: 15px;
+}
+.botton:hover{
+    color: cyan;
+}
+.data form{
+    display: inline-block;
+}

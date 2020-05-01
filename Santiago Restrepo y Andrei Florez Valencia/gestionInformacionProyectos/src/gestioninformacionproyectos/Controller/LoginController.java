@@ -1,6 +1,5 @@
 package gestioninformacionproyectos.Controller;
 
-import gestioninformacionproyectos.Model.User;
 import gestioninformacionproyectos.Configuration.*;
 import java.sql.ResultSet;
 import java.sql.SQLException;

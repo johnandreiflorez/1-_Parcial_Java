@@ -42,6 +42,7 @@ public class OwnersFrm extends javax.swing.JInternalFrame {
         tblOwners = new javax.swing.JTable();
         btnSave = new javax.swing.JButton();
 
+        setBackground(new java.awt.Color(153, 153, 153));
         setClosable(true);
         setIconifiable(true);
         setMaximizable(true);

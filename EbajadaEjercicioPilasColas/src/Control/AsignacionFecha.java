@@ -41,7 +41,7 @@ public class AsignacionFecha {
                 
             }else{
                 if (line.equals("Documentos")){
-                    System.out.println("si entra");
+                    //System.out.println("si entra");
                     DocumentosPersona objDocumentos = new DocumentosPersona();
                         //lee el nombre 
                     line = objArchivos.leerUnaLineaTexto();
@@ -59,11 +59,11 @@ public class AsignacionFecha {
                     line = objArchivos.leerUnaLineaTexto();
                     objDocumentos.setTitle(line.split(":")[1]);
                         // guarda el la pila
-                    System.out.println("va a guardar: \n"+objDocumentos.getName()+"\n"+
-                                        objDocumentos.getAge()+"\n"+objDocumentos.getInterviewDate()+"\n"+
-                                         objDocumentos.getBalance()+"\n"+objDocumentos.getTitle()+"\n");
+//                    System.out.println("va a guardar: \n"+objDocumentos.getName()+"\n"+
+//                                        objDocumentos.getAge()+"\n"+objDocumentos.getInterviewDate()+"\n"+
+//                                         objDocumentos.getBalance()+"\n"+objDocumentos.getTitle()+"\n");
                     mes.push(objDocumentos);
-                    System.out.println("ya guardo esto ^^^\n ________________________________________ ");
+                    //System.out.println("ya guardo esto ^^^\n ________________________________________ ");
                 }
             }
             line = objArchivos.leerUnaLineaTexto();

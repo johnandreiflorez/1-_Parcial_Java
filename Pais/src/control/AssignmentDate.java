@@ -40,14 +40,14 @@ public class AssignmentDate {
             }else
                 if(line.equals("PILA"))
                     if(sw==0){
-                        objEmbassy.showStack(month);
+//                        objEmbassy.showStack(month);
                         objEmbassy.setJanuary(month);
                         month = new Stack(100);
                         sw=1;
-                    }else
-                        objEmbassy.showStack(month);
+                    }else{
+//                        objEmbassy.showStack(month);
                         objEmbassy.setFebruary(month);
-                
+                    }
             line = objReadData.readerALine();
         }
         objReadData.closeFile();

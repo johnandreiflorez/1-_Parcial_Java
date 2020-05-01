@@ -1,7 +1,8 @@
 package gestioninformacionproyectos.View;
 
 import gestioninformacionproyectos.Configuration.SessionData;
-import java.awt.Component;
+import java.awt.*;
+import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
 /**
@@ -15,6 +16,11 @@ public class Start extends javax.swing.JFrame {
     public Start(SessionData sessionData) {
         this.session = sessionData;
         initComponents();
+        try{
+            setIconImage(new ImageIcon(getClass().getResource("/media/icono.jpg")).getImage());
+        }catch(Exception e){
+            System.out.println("no encuentra icono");
+        }    
         desktop.setBorder(javax.swing.BorderFactory.createTitledBorder("Bienvenido " + sessionData.getName()));
     }
 
@@ -38,9 +44,10 @@ public class Start extends javax.swing.JFrame {
         logOut = new javax.swing.JMenuItem();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setUndecorated(true);
 
-        desktop.setBackground(new java.awt.Color(153, 153, 153));
-        desktop.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "BIENVENIDO", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Dialog", 1, 18), new java.awt.Color(0, 0, 0))); // NOI18N
+        desktop.setBackground(new java.awt.Color(0, 0, 0));
+        desktop.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "BIENVENIDO", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Dialog", 1, 18), new java.awt.Color(255, 255, 255))); // NOI18N
         desktop.setToolTipText("");
         desktop.setAutoscrolls(true);
         desktop.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
@@ -54,7 +61,7 @@ public class Start extends javax.swing.JFrame {
         );
         desktopLayout.setVerticalGroup(
             desktopLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 747, Short.MAX_VALUE)
+            .addGap(0, 741, Short.MAX_VALUE)
         );
 
         INICIO.setToolTipText("INICIO");
@@ -63,6 +70,8 @@ public class Start extends javax.swing.JFrame {
 
         registro.setText("REGISTRO");
 
+        projects.setFont(new java.awt.Font("Dialog", 1, 24)); // NOI18N
+        projects.setIcon(new javax.swing.ImageIcon(getClass().getResource("/media/projects.png"))); // NOI18N
         projects.setText("Proyectos");
         projects.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -71,6 +80,8 @@ public class Start extends javax.swing.JFrame {
         });
         registro.add(projects);
 
+        activities.setFont(new java.awt.Font("Dialog", 1, 24)); // NOI18N
+        activities.setIcon(new javax.swing.ImageIcon(getClass().getResource("/media/activity.png"))); // NOI18N
         activities.setText("Actividades");
         activities.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -79,6 +90,8 @@ public class Start extends javax.swing.JFrame {
         });
         registro.add(activities);
 
+        owners.setFont(new java.awt.Font("Dialog", 1, 24)); // NOI18N
+        owners.setIcon(new javax.swing.ImageIcon(getClass().getResource("/media/person.png"))); // NOI18N
         owners.setText("Responsables");
         owners.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -87,6 +100,8 @@ public class Start extends javax.swing.JFrame {
         });
         registro.add(owners);
 
+        activitiesByProjectWithOwners.setFont(new java.awt.Font("Dialog", 1, 24)); // NOI18N
+        activitiesByProjectWithOwners.setIcon(new javax.swing.ImageIcon(getClass().getResource("/media/elnace.png"))); // NOI18N
         activitiesByProjectWithOwners.setText("Actividades por Proyectos con Responsables");
         activitiesByProjectWithOwners.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -95,6 +110,8 @@ public class Start extends javax.swing.JFrame {
         });
         registro.add(activitiesByProjectWithOwners);
 
+        listings.setFont(new java.awt.Font("Dialog", 1, 24)); // NOI18N
+        listings.setIcon(new javax.swing.ImageIcon(getClass().getResource("/media/create.png"))); // NOI18N
         listings.setText("Listados");
         listings.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -103,6 +120,8 @@ public class Start extends javax.swing.JFrame {
         });
         registro.add(listings);
 
+        logOut.setFont(new java.awt.Font("Dialog", 1, 24)); // NOI18N
+        logOut.setIcon(new javax.swing.ImageIcon(getClass().getResource("/media/salir.png"))); // NOI18N
         logOut.setText("Terminar");
         logOut.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -120,14 +139,15 @@ public class Start extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(desktop)
+            .addComponent(desktop, javax.swing.GroupLayout.Alignment.TRAILING)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(desktop)
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(desktop))
         );
 
-        desktop.getAccessibleContext().setAccessibleName("BIENVENIDO");
         desktop.getAccessibleContext().setAccessibleParent(desktop);
 
         pack();
